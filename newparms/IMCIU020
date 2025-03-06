@@ -1,0 +1,2091 @@
+0000OFICINA PRINCIPAL                    Principal           Bogota
+0002CENTRO ADMINISTRATIVO CAN            CAN                 Bogota
+0003OFICINA PRINCIPAL                    Principal           Bogota
+0004CALLE 53 EXITO                       Calle 53 Exito      Bogota
+0005SUBA                                 Suba                Bogota
+0006CEDRITOS                             Cedritos            Bogota
+0007ANTIGUO COUNTRY                      Antigo Country      Bogota
+0008EL CHICO                             El Chico            Bogota
+0009CALLE 100                            Calle 100           Bogota
+0010AVENIDA CARACAS                      Av. Caracas         Bogota
+0011BACATA FUNZA                         Bacata Funza        Funza
+0012PASADENA                             Pasadena            Bogota
+0013GALAN                                Galan               B/meja
+0014LOS HEROES                           Los Heroes          Bogota
+0015MALL PLAZA NQS                       Mall Plaza NQS      Bogota
+0016COTA                                 Cota                Cota
+0017CENTRO URBANO ANTONIO  NARINO        C.U. Antonio Narino Bogota
+0018ZONA INDUSTRIAL MONTEVIDEO           Z.Ind. Montevideo   Bogota
+0019BARRIO RESTREPO                      Restrepo            Bogota
+0020SAN JOSE                             San  Jose           Bogota
+0021VEINTE DE JULIO                      20 de Julio         Bogota
+0022VENECIA                              Venecia             Bogota
+0023OFICINA CC NUESTRO BOGOTA            Of CC Nuestro BogotaBogota
+0024OF CC DIVER PLAZA ALAMOS             Of CC Diver Plz AlamBogota
+0025PLAZA DE LAS AMERICAS                Plaza de Americas   Bogota
+0026SANTUARIO 20 DE JULIO                Santuario 20 Julio  Bogota
+0027CARVAJAL                             Carvajal            Bogota
+0028CALLE 13 CARRERA 30                  Cll 13 Cra 30       Bogota
+0030GAITANA                              Gaitana             Bogota
+0032CARRERA 24 # 26 - 01                 Cra 24 26 - 01      Bogota
+0033ANDES                                Andes               Bogota
+0034PARQUE SANTANDER                     Parq Santander      Bogota
+0035AVENIDA 19                           Avenida 19          Bogota
+0036CARRERA 10a. CALLE 17                Cra 10 Cll 17       Bogota
+0037CARRERA 47                           Carrera 47          Bogota
+0038AVENIDA CHILE                        Avenida Chile       Bogota
+0039PARQUE EL VIRREY                     Parque el Virrey    Bogota
+0040CHAPINERO                            Chapinero           Bogota
+0041CALLE 54 # 10 - 73                   Cll 54 10 - 73      Bogota
+0043UNIVERSIDAD JAVERIANA                U. Javeriana        Bogota
+0044ILARCO                               Ilarco              Bogota
+0045CENTRAL DE ABASTOS - BOGOTA          Ctro Abastos        Bogota
+0046CIUDAD SALITRE                       CCial CSalitre      Bogota
+0047UNICENTRO BOGOTA                     Unicentro           Bogota
+0049OFICINA 7-72                         El Castillo         Bogota
+0050EL NOGAL                             El Nogal            Bogota
+0051LAS AGUAS                            Las Aguas           Bogota
+0052CENTRAL SAN MARTIN                   San Martin          Bogota
+0054PALOQUEMAO                           Paloquemao          Bogota
+0055CALLE 9a. CRA 34                     Cll 9A Cra 34       Bogota
+0056CARRERA 11 # 68 - 09                 Cra11 68 - 9        Bogota
+0057RICAURTE                             Ricaurte            Bogota
+0058SAN AGUSTIN                          San Agustin         Bogota
+0059MESITAS DEL COLEGIO                  Mesitasdelcolegio   Mesitas
+0060KENNEDY                              Kennedy             Bogota
+0061CENTRO INDUSTRIAL CAZUCA             C.Ind.Cazuca        Soacha
+0062SAN DIEGO                            San Diego           Bogota
+0063OF RYP CENTRO CCIAL ISERRA 100       Of RYP C Cial Ise100Bogota
+0064CENTRO COMERCIAL EL PORTICO          Ctr Ccial El PorticoFacatativa
+0065LOS COMUNEROS ZIPAQUIRA              Los comuneros Zipa  Zipaquira
+0066PACHO                                Pacho               Pacho
+0067TABIO                                Tabio               Tabio
+0068SAN VICTORINO                        San Victorino       Bogota
+0069PLAZA NEIRA UBATE                    Plaza Neira Ubate   Ubate
+0070PARQUE BOLIVAR STA MARTA             Pque Bol Sta Marta  Sta Marta
+0071AVENIDA 6a. CARRERA 22               Av 6A Cra 22        Bogota
+0072EL LAGO BOGOTA                       El Lago             Bogota
+0073CENTRO COMERCIAL EL EDEN             CC El Eden          Bogota
+0074AV LAS PEITAS                       Calle 23 Sincelejo  Sincelejo
+0075GALERIAS                             Galerias            Bogota
+0076CENTRO COMERCIAL CENTRO NORTE        centro ccial ctr nteTunja
+0077SANTA TERESITA                       Sta Teresita        Bogota
+0078METROPOLIS                           Metropolis          Bogota
+0079LA CLARITA                           La Clarita          Bogota
+0080SANTA BARBARA ALTA                   Sta Barbara Alt     Bogota
+0081SIETE DE AGOSTO                      Siete Agosto        Bogota
+0082AVENIDA CALLE 68                     Av Calle 68         Bogota
+0083AVENIDA CIUDAD DE QUITO              Av Ciud Quito       Bogota
+0084AVENIDA PEPE SIERRA                  Av Pepe Sierra      Bogota
+0085CENTRO COMERCIAL SANTAFE             Centro Santafe      Bogota
+0086CENTRO COMERCIAL BULEVAR NIZA        Ccial Bul Niza      Bogota
+0087CALLE 72                             Calle 72            Bogota
+0088CENTRO COMERCIAL VIVA WAJIRA         CC Viva Wajira      Rioacha
+0089AUTOPISTA DEL SUR                    Autopista Sur       Bogota
+0091LOPERENA VALLEDUPAR                  Loperena Valledupar Valledupar
+0092FONTIBON                             Fontibon            Bogota
+0093FUNZA                                Funza               Funza
+0094MOSQUERA                             Mosquera            Mosquera
+0095LAS AMERICAS                         Las Americas        Bogota
+0096DISTRITO 90                          Distrito 90         B/quilla
+0097CTRO CCIAL MALL PLAZA                Ctro Ccial Mall PlazCartagena
+0098CENTRO CIVICO BARRANQUILLA           Ctr Civico Bquilla  B/quilla
+0099ARIARI GRANADA                       Ariari Granada      Granada
+0100GCIA OPERATIVA CONTABLE              Gcia Oper Contable  Bogota
+0101CENTRO NELMAR                        Ctro Nelmar         Barranquilla
+0102AVENIDA PRIMERA                      Av Primera          Bogota
+0103CIUDAD MONTES                        Ciudad Montes       Bogota
+0104ABEJORRAL                            Abejorral           Abejorral
+0105VERSALLES                            Versalles           Palmira
+0106CENTRO INTERNACIONAL                 Centro InternacionalBogota
+0107GRANSAN VICTORINO                    G.San Victorino     Bogota
+0108ACACIAS                              Acacias             Acacias
+0109INEM CALI                            Inem Cali           Cali
+0110PUBENZA FLORIDA                      Pubenza Florida     Florida
+0111SANTANDER DE QUILICHAO               Santander De Quili. S/der Quili
+0112TERMINAL DE TRANSPORTE BOGOTA        Term.Trans Bta      Bogota
+0113CTR CIAL BUGA PLAZA                  Ctr Cial Buga Plaza Buga
+0114CENTRAL ABASTOS MEDELLIN             Ctral Abastos       Medellin
+0115OFICINA AVENIDA 15 CALLE 106         Carrera 15 con 106  Bogota
+0116AGUACHICA                            Aguachica           Aguachica
+0117CTRO SERVICIOS PYME BUCARAMANGA      Ctr Serv Pyme BmangaBucaramanga
+0118AVENIDA COLOMBIA                     Av. Colombia        Medellin
+0119CENTRO PLAZA CAICEDO                 Ctr Plaza Caicedo   Cali
+0120AGUAZUL                              Aguazul             Aguazul
+0121PASTO PLAZA                          Pasto Plaza         Pasto
+0122CENTRO INTERNACIONAL                 Ctro Internal       Bogota
+0123UNISUR                               Unisur              Bogota
+0124ANOLAIMA                             Anolaima            Anolaima
+0125OFICINA EDIFICIO BANCO DE BTA BQUILLAOf Edf Bco Bta BquilBarranquilla
+0126EL TREN CALI                         El Tren Cali        Cali
+0127SAN CRISTOBAL                        San Cristobal       Bogota
+0128CENTRO COMERCIAL NUESTRO URABA       C.C Nuestro Uraba   Apartado
+0129VENECIA CENTRAL                      Venecia Central     Bogota
+0130TRINIDAD GALAN                       Trinidad Galan      Bogota
+0131CENTRO COMERCIAL PALATINO            Ccial Palatino      Bogota
+0132KENNEDY CARAVANA                     Kennedy Caravana    Bogota
+0133CENTRO COMERCIAL SAN FERNANDO PLAZA  San Fernando        Medellin
+0134CENTRO COMERCIAL LA ESTACION CALI    CC La Estacion Cali Cali
+0135LA VICTORIA SUR ORIENTE              La Victoria Sur OrieBogota
+0136oficina barbosa                      oficina barbosa     Barbosa
+0137ARAUCA                               Arauca              Arauca
+0138ARMENIA                              Armenia             Armenia
+0139PATIO BONITO                         Patio Bonito        Bogota
+0140LERIDA                               Lerida              Lerida
+0141BANCO DE BOGOTA PINARES              Bco de Bta Pinares  Pereira
+0142CENTRO CIAL JARDIN PLAZA             C Cial Jardin Plaza Cali
+0143BOSA                                 Bosa                Bosa
+0144CARRERA SETENTA                      Cra. Setenta        Medellin
+0145SANTA HELENITA                       Santa Helenita      Bogota
+0146PARQUE VERSALLES CALI                Pq Versalles Cali   Cali
+0148CERROMATOSO                          Cerromatoso         Montelibano
+0149VILLAPINZON                          Villapinzon         Villapinzon
+0150RINCON SUBA                          Rincon Suba         Bogota
+0151CENTRO NELMAR                        Ctro Nelmar         Barranquilla
+0152REDES EXTERNAS OPERACIONES BANCARIAS Redes Ext Op BancariBogota
+0153AVENIDA DE GREIFF                    Av.deGreiff         Medellin
+0154SAN ANTONIO DEL PRADO                S.AntoniodelPrado   S Antonio
+0155ORIENTE RIONEGRO                     Oriente Rionegro    Rionegro
+0156PLAZA ARRAYANES                      Plaza Arrayanes     Itagui
+0157SOTOMAYOR                            Sotomayor           Bucaramanga
+0158CENTRO COMERCIAL DEL NORTE           CCial Norte         Cali
+0159CENTRO EMPRESA                       Ctro Empresa        Cali
+0160AVENIDA BOYACA                       Av Boyaca           Bogota
+0161CIUDAD TUNAL                         Ciudad Tunal        Bogota
+0162AVENIDA EL LIBERTADOR                Av Libertador       Bucaramanga
+0164CENTRO COMERCIAL CALIMA              Calima              Cali
+0165AUTOPISTA EL DORADO                  Autop Dorado        Bogota
+0166PARQUE SAN NICOLAS                   Parque San Nicolas  Cali
+0167OFIC REC Y PAGO BELLO                Of Rec y Pago Bello Bello
+0168BARRANCABERMEJA                      B/bermeja           B/bermeja
+0170BARRANQUILLA                         Barranquilla        Barranquilla
+0171CARRERA 19 AV PRIM MAYO              Crr 19 Av Prim Mayo Bogota
+0172OFICINA CC PUNTO CLAVE               Punto Clave         Medellin
+0173BOULEVARD 54                         Boulevard 54        Barranquilla
+0174SANTA LUCIA                          Santa Lucia         Bogota
+0175BARRIO LAS LUNAS                     Barrio Las Lunas    Pasto
+0178BELLO                                Bello               Bello
+0179CENTRO COMERCIAL CASABLANCA          CC CASABLANCA       Madrid
+0180CALI                                 Cali Centro         Cali
+0181PUERTO TEJADA                        Pto Tejada          Pto Tejada
+0182EDF BANCO DE BOGOTA BOCAGRANDE       Ed.Bco de Bta Bocag Cartagena
+0183BOSCONIA                             Bosconia            Bosconia
+0184BUCARAMANGA                          Bucaramanga         Bucaramanga
+0185CALLE 63 SIETE DE AGOSTO             Cll 63 Siete Agosto Bogota
+0186VISTAMAR BUENAVENTURA                Vistamar BuenaventurBuenaventura
+0187BUENVAVISTA                          Buenavista          Barranquilla
+0188BUGA                                 Buga                Buga
+0190CALARCA                              Calarca             Calarca
+0191C.C TITAN                            C.c Titan           Bogota
+0193POLICARPA GUADUAS                    Policarpa Guaduas   Guaduas
+0194TEJAR                                Tejar               Bogota
+0195OFICINA PREMIUM RUITOQUE             Of Premium Ruitoque Floridblc  ca
+0196LA PAZ                               La Paz              Barranquilla
+0197CHOACHI                              Choachi             Choachi
+0198UNICENTRO VILLAVICENCIO              Unicentro V/cio     V/cencio
+0199QUIRIGUA                             Quirigua            Bogota
+0200BASE MILITAR SAN JOSE GUAVIARE       Base Mil.San J.GuaviSan Jose G.
+0201GRAN PLAZA FLORENCIA                 Gran Plaza FlorenciaFlorencia
+0202DONCELLO                             Doncello            Doncello
+0203CENTRO COMERCIAL CANAVERAL           CCial Canaveral     Bucaramanga
+0204CARTAGENA                            Cartagena           Cartagena
+0205QUINTA CAMACHO                       Quinta Camacho      Bogota
+0206CARTAGO                              Cartago             Cartago
+0207CAVASA                               Cavasa              Cali
+0208C. C. MAZUREN                        C. C. Mazuren       Bogota
+0209OFIC REC Y PAGO UNICALI              Of Rec y Pago UnicalCali
+0210CENTRAL DE TRANSPORTES CUCUTA        CentralTrans.       Cucuta
+0211GACHANCIPA                           Gachancipa          Gachancipa
+0212CASABLANCA                           Casablanca          Bogota
+0213NATAGAIMA                            Natagaima           Natagaima
+0214CENTRO COMERCIAL SAN DIEGO           CCial S.Diego       Medellin
+0215GCIA OPERATIVA DESEMBOLSOS INTEGRALESG.Oper Desem IntegraBogota
+0216CERETE                               Cerete              Cerete
+0217CENTRO COMERCIAL OVIEDO              CCial Oviedo        Medellin
+0218CENTRO COMERCIAL CABLE PLAZQ         Cable Plaza         Manizalez
+0219OFIC REC Y PAGO VILLAVICENCIO        Of Rec y Pago VcenciV/cencio
+0220CIENAGA                              Cienaga             Cienaga
+0221CENTRO COMERCIAL BUENAVISTA          Buenavista          Santa Marta
+0223CENTRO 93                            Centro 93           Bogota
+0224CODAZZI                              Codazzi             Codazzi
+0225BOULEVAR MAYORCA                     Boulevar Mayorca    Medellin
+0226CENTRO COMERCIAL UNICO               Ccial Unico         Cali
+0227RINCON DEL CHICO                     Rincon del Chico    Bogota
+0228CENTRO COMERCIAL PASEO SAN RAFAEL    Ccial San Rafael    Bogota
+0229GRANADA CUNDINAMARCA                 Granada Cmarca      Granada
+0230CENTRO COMERCIAL LLANOGRANDE         Ccial Llanogrande   Cali
+0231SOLARES VILLETA                      Solares Villeta     Villeta
+0232COPACABANA                           Copacabana          Copacabana
+0233OFIC REC Y PAGO CORFERIAS            Of Rec y Pago CorferBogota
+0234AMARILO                              Amarilo             Bogota
+0235CENTRO COMERCIAL OCEAN MALL          Ctro Ccial Ocean M  Sta Martha
+0236CENTRO COMERCIAL LOS MOLINOS         Ccial Los Molinos   Medellin
+0237CENTRO COMERCIAL PLAZA IMPERIAL      Ctro Ccial Plz ImperBogota
+0238CENTRO COMERCIAL PLAZA DEL RIO       Plaza del Rio       Apartado
+0239CENTRO CHIA                          Centro Chia         Bogota
+0240COROZAL                              Corozal             Corozal
+0241OFIC REC Y PAGO CLL 73               Of Rec y Pago Cll 73Bogota
+0242OFIC REC Y PAGO SANTA MARTA          Of Rec y Pago Sta MtSanta Marta
+0243OFIC REC Y PAGO MEDELLIN             Of Rec y Pago MedellMedellin
+0244CENTRO COMERCIAL SAN PEDRO PLAZA     San Pedro Plaza     Neiva
+0245OFIC REC Y PAGO BOGOTA CENTRO        Of Rec y Pago Bta CtBogota
+0246OFIC REC Y PAGO BTA CHAPINERO        Of Rec y Pago Bta ChBogota
+0247OFIC REC Y PAGO CALI                 Of Rec y Pago Cali  Cali
+0248OFIC REC Y PAGO MANIZALES            Of Rec y Pago ManizaManizales
+0249COSMOCENTRO                          Cosmocentro         Cali
+0250CARRERA BOLIVAR                      Cra. Bolivar        Medellin
+0251OFIC REC Y PAGO PEREIRA              Of Rec y Pago PereirPereira
+0253OFICINA GUARIN                       Guarin              Bucaramanga
+0254CARRERA OCTAVA                       Cra. Octava         Cali
+0255CALLE CUARENTA                       Cl Cuarenta         Ibague
+0256BULEVAR DEL RIO CALI                 Bulevar del Rio CaliCali
+0257OFIC REC Y PAGO WORLD TRADE CENTER   Of Rec y Pago W T CtBogota
+0259OFICINA SABANA DE TORRES             Sabana de Torres    Santander
+0260CUCUTA                               Cucuta              Cucuta
+0261CENTRO COMERCIAL MERCURIO            Ccial Mercurio      Bogota
+0263MELGAR                               Melgar              Melgar
+0264CHIA                                 Chia                Chia
+0265OFICINA BARRIO MODELO NORTE          Barrio Modelo Norte Bogota
+0266CHINCHINA                            Chinchina           Chinchina
+0267LA CEJA                              La Ceja             Medellin
+0268CHIQUINQUIRA                         Chiquinquira        Chiquinquira
+0269LIBANO                               Libano              Libano
+0270CHOCONTA                             Choconta            Choconta
+0272SOACHA                               Soacha              Soacha
+0273MIRANDA                              Miranda             Miranda
+0274CENTRO COMERCIAL HAYUELOS            Ccial Hayuelos      Bogota
+0275PORTAL DE LA 80                      Portal De La 80     Bogota
+0276AVENIDA ROOSVELT                     Avenida Roosvelt    Cali
+0277CUBA                                 Cuba                Pereira
+0278CENTRO COMERCIAL NUESTRO CARTAGO     CC Nuestro Cartago  Cartago
+0279DOSQUEBRADAS                         Dosquebradas        Pereira
+0280DIRECCION GENERAL                    Direc. Gnal         Bogota
+0281MALL PLAZA MANIZALES                 MALL PLAZA MANIZALESManizales
+0282DUITAMA                              Duitama             Duitama
+0283SAN FRANCISCO                        San Francisco       Bucaramanga
+0284EL BANCO                             El Banco            El Banco
+0285CARMEN DEL VIBORAL                   CarmenViboral       Carmen Vibor
+0286EL CARMEN                            El Carmen           CarmenBolivar
+0287EL CERRITO                           El Cerrito          El Cerrito
+0288CENTRO COMERCIAL UNICENTRO VALLEDUPARCC Unicentro ValleduValledupar
+0289CANDELARIA                           Candelaria          Candelaria
+0290AVENIDA 30 DE AGOSTO                 Av 30 Agosto        Pereira
+0291CENTRO COMERCIAL ANDINO              Centro Cial Andino  Bogota
+0292EL PRADO                             El Prado            Barranquilla
+0293CENTRO COMERCIAL PARQUE ALEGRA       C Cial Parq Alegra  Barranquilla
+0294ENVIGADO                             Envigado            Envigado
+0295DAGUA                                Dagua               Dagua
+0296ESPINAL                              Espinal             Espinal
+0299CENTRO COMERCIAL GRAN ESTACION       C Cial Gran EstacionBogota
+0301LA TRIADA                            La Triada           B/manga
+0302COLINA OFFICE PARK                   Colina Office Park  Bogota
+0303CUCUTA AVENIDA QUINTA                Cucuta Av Quinta    Cucuta
+0304FACATATIVA                           Facatativa          Facatativa
+0305LA ISLA                              La Isla             B/manga
+0306OFIC REC Y PAGO TERMINAL DE CARGA 80 Of Rec y Pago T C 80Cota
+0308FLANDES                              Flandes             Flandes
+0309LA ESTACION CTRO CCIAL IBAGUE        La Estacion Ct CcialIBAGUE
+0310BARANOA                              Baranoa             Baranoa
+0311SAN GIL                              San Gil             San Gil
+0312FLORENCIA                            Florencia           Florencia
+0313CENTRO COMERCIAL FUNDADORES          Ctr Cial Fundadores Manizales
+0314FLORIDA                              Florida             Florida
+0315CENTRO COMERCIAL ALAMEDAS            CC Alamedas         Monteria
+0316C.C. MILENIO PLAZA                   C.C. Milenio Plaza  Bogota
+0317OFIC REC Y PAGO BARRIO RESTREPO      Of Rec y Pago B RestBogota
+0318FONSECA                              Fonseca             Fonseca
+0319FLORIDABLANCA                        floridablanca       Floridablanc
+0322FRONTINO                             Frontino            Frontino
+0323PORTAL DEL NORTE                     Portal del Norte    Calarca
+0324ANDES ANTIOQUIA                      Andes Antioquia     Andes
+0325OFICINA CENTRO COMERCIAL FONTANAR    Oficina CC Fontanar Chia
+0326FUNDACION                            Fundacion           Fundacion
+0327NORMANDIA                            Normandia           Bogota
+0328DIRECCION VEHICULOS Y ALIADOS RETAIL Dir Vehic Aliad RetaBogota
+0329PORTAL USME                          Portal Usme         Bogota
+0330FUSAGASUGA                           Fusagasuga          Fusagasuga
+0331UNIDAD DE LIBRANZA RED MEGABANCO     Unidad Libranza Red Bogota
+0332BASE NAVAL DE CARTAGENA              B.Naval de CartagenaCartagena
+0333SAN CRISTOBAL ANTIOQUIA              San Cristobal AntioqMedellin
+0334GACHETA                              Gacheta             Gacheta
+0335GCIA CENTRO DE SERVICIO LEASING      Gc Ctro Serv LeasingBogota
+0336GARAGOA                              Garagoa             Garagoa
+0337BARRIO CONTADOR                      Barrio Contador     Bogota
+0338GARZON                               Garzon              Garzon
+0339SOATA                                Soata               Soata
+0340OFICINA PREMIUM PEREIRA              Of Premium Pereira  Pereira
+0341PARQUE COMERCIAL GUACARI             Pq Comercial GuacariSincelejo
+0342CARRERA 20 CALLE 124                 Crr 20 Calle 124    Bogota
+0344OFICINA BARBOSA                      Oficina Barbosa     Barbosa
+0345GERENCIA SOX                         Gerencia Sox        Bogota
+0346GINEBRA                              Ginebra             Ginebra
+0347CALYPSO                              Calypso             Cali
+0348GIRARDOT                             Girardot            Girardot
+0349GIRARDOTA                            Girardota           Girardota
+0350GRANADA                              Granada             Granada
+0351CENTRO VILLAVICENCIO                 Centro VillavicencioVilla/cio
+0352GUACARI                              Guacari             Guacari
+0353MONTERREY                            Monterrey           Monterrey
+0354PARQUE RIVEROS ACACIAS               Pqrque Riveros AcaciAcacias
+0356GUADUAS                              Guaduas             Guaduas
+0357CTRO CIAL VIVA VILLAVICENCIO         C.C Viva Villa/cio  Villa/cio
+0358GUAMAL                               Guamal              Guamal
+0359OFICINA SANTA ANA                    Santa Ana           Bogota
+0360GUATEQUE                             Guateque            Guateque
+0361RESTREPO META                        Restrepo Meta       Restrepo
+0362GUAYAQUIL                            Guayaquil           Medellin
+0363MARIQUITA                            Mariquita           Mariquita
+0364LOS CENTAUROS                        Los Centauros       V/cencio
+0366HONDA                                Honda               Honda
+0370IBAGUE                               Ibague              Ibague
+0371MANRIQUE                             Manrique            Medellin
+0372LA PERLA DUITAMA                     La Perla Duitama    Duitama
+0374IPIALES                              Ipiales             Ipiales
+0375SAN VICENTE DEL CAGUAN               San Vic del Caguan  SanV Caguan
+0376KIOSKO UNAB                          Kiosco Unab         Bucaramanga
+0377NOBSA                                Nobsa               Nobsa
+0378ITSMINA                              Istmina             Istmina
+0379KIOSKO EPM MEDELLIN                  EPM Mllin           Medellin
+0380ISERRA 100                           Iserra 100          Bogota
+0381LAS MARGARITAS                       Las Margaritas      Bogota
+0382ITAGUI                               Itagui              Itagui
+0383SAN AGUSTIN-HUILA                    San Agustin-Huila   San Agustin
+0384CENTRO EMPRESARIAL NORTH POINT       C Empr. North Point Bogota
+0386CARRERA JUNIN                        Cra Junin           Medellin
+0387METROCENTRO                          Metrocentro         B/quilla
+0388BARRIO LA CASTELLANA                 Barrio La CastellanaBogota
+0389LA PLAZUELA                          La Plazuela         Cartagena
+0390LA DORADA                            La Dorada           La Dorada
+0391CHIPICHAPE                           Chipichape          Cali
+0392CALLE MURILLO                        Cll Murillo         Barranquilla
+0393CTRO CIAL SANTAFE MEDELLIN           Ctro Cial Stfe MllinMedellin
+0394LA MESA                              La Mesa             La Mesa
+0395LA PRIMAVERA VILLAVICENCIO           La Primavera V/cenciV/vicencio
+0396OFICINA FUSAGASUGA                   Oficina Fusagasuga  Fusagasuga
+0397SUGAMUXI SOGAMOSO                    Sugamuxi Sogamoso   Sogamoso
+0398LA PLATA                             La Plata            La Plata
+0399CTR EMPR. METROPOL. SURAMERICAN.     Ctr Empr. Metr. Sur.Bogota
+0400LA VICTORIA                          La Victoria         La Victoria
+0401GERENCIA EMPRESARIAL BOGOTA MB       Gcia Empr Bogota Mb Bogota
+0402LA VIRGINIA                          La Virginia         La Virginia
+0404EXT OFICINA BUENAVISTA SANTA MARTA   Ex of cc Bvista sta Sta Marta
+0405OFICINA MOVIL BUS BANCO DE BOGOTA    Of Movil Bus Bco BtaBOGOTA
+0406VIVA ENVIGADO                        Viva Envigado       Medellin
+0407LETICIA                              Leticia             Leticia
+0408LORICA                               Lorica              Lorica
+0409UNICENTRO YOPAL                      Unicentro Yopal     Yopal
+0410PRADO VERANIEGO                      Prado Veraniego     Bogota
+0412GERENCIA EMPRESARIAL BOGOTA MB       Gcia Empr Bogota Mb Bogota
+0414MAGANGUE                             Magangue            Magangue
+0415OFIC REC Y PAGO FIESTA SUBA          Of Rec y Pago F SubaBogota
+0416LAS GRANJAS                          Las Granjas         Bogota
+0417CENTRO COMERCIAL FLORIDA             Ctr Ccial Florida   Medellin
+0418ARMERO GUAYABAL                      Armero Guayabal     Armero Guayabal
+0420SAN MARTIN CESAR                     San Martin Cesar    San Martin
+0421GERENCIA EMPRESARIAL MEDELLIN MB     Gcia Empr Medell Mb Medellin
+0423BASE MILITAR COVE#AS                 Base Militar CoveasCoveas
+0425OFICINA RECAUDOS Y PAGOS FONTIBON    Of Ryp Fontibon     Bogota
+0426MAMONAL                              Mamonal             Mamonal
+0427AVENIDA ROOSVELT-CALI                Av Roosvelt         Cali
+0428MANIZALES                            Manizales           Manizales
+0429ESCUELA MIL AVIACION MARCO F SUAREZ  Esc Ml Av M F SuarezCali
+0431TERMINAL DE TRANSPORTE MEDELLIN      Term. TransMd       Medellin
+0432MATURIN                              Maturin             Medellin
+0433EL POBLADO                           El Poblado          Medellin
+0434MEDELLIN CENTRO                      Medellin Ctro       Medellin
+0436MONTELIBANO                          Montelibano         Montelibano
+0437SANTA LIBRADA BOGOTA                 Santa Librada BogotaBogota
+0438MONTERIA                             Monteria            Monteria
+0439OFICINA TORRE BANCO DE BOGOTA        Of Torre Bco de Bta Santa Marta
+0441CALLE 80                             Calle 80            Bogota
+0442NEIVA                                Neiva               Neiva
+0443CALASANZ                             Calasanz            Medellin
+0444CAJICA                               Cajica              Cajica
+0445CENTRO COMERCIAL MALLPLAZA CALI      Cc MallaPlaza Cali  Cali
+0446OCANA                                Ocana               Ocana
+0447LUCERO                               Lucero              Bogota
+0448PALERMO                              Palermo             Bogota
+0449CARRERA 7 CALLE 67                   Carrera 7 Cll 67    Bogota
+0450CANDELARIA LA NUEVA                  Candelaria La Nueva Bogota
+0452CENTRO COMERCIAL EL TESORO           El Tesoro           Medellin
+0453MALAMBO                              Malambo             Malambo
+0454UNICENTRO PALMIRA                    Unicentro Palmira   Palmira
+0455PANAMERICANO CALI                    Panamericano Cali   Cali
+0456VILLA COLOMBIA CALI                  Villa Colombia Cali Cali
+0457GALAPA                               Galapa              Galapa
+0458PALMIRA                              Palmira             Palmira
+0459PASOANCHO                            Pasoancho           Cali
+0460AV CARRERA 30 CON 75                 Av Carrera 30 con 75Bogota
+0461MUNICIPIO DE LA UNION                Municipio La union  La Union
+0462PAMPLONA                             Pamplona            Pamplona
+0463MARINILLA                            Marinilla           Marinilla
+0464OFICINA PREMIUM TORRE OVIEDO         Of Prem Torre OviedoMedellin
+0465PARQUE OLAYA                         Parque Olaya        Pereira
+0466PASTO                                Pasto               Pasto
+0467PARQUE WASHINGTON                    Parq Washingt       Barranquilla
+0468PEREIRA                              Pereira             Pereira
+0469PIEDECUESTA                          Piedecuesta         Piedecuesta
+0470JAMUNDI                              Jamundi             Jamundi
+0471PIVIJAY                              Pivijay             Pivijay
+0473OFIC REC Y PAGO PASEO DEL COMERCIO   Of Rec y Pago P ComeBucaramanga
+0474PIEDRAPINTADA                        Piedrapintada       Ibague
+0475VIVA COLOMBIA CALI                   Viva Colombia Cali  Cali
+0476BELEN                                Belen               Medellin
+0477JUNIN                                Junin               Cali
+0478CAREPA                               Carepa              Carepa
+0479VILLA CESPEDES TULUA                 Villa Cespedes TuluaTulua
+0480OFICINA CANAVERALEJO                 Oficina CanaveralejoCali
+0481OFIC REC Y PAGO CC GRAN ESTACION II  Of Rec y Pago CC EIIBogota
+0484PLAZA CAYCEDO                        Plaza Caycedo       Cali
+0486UNICENTRO CALI                       UnicentroCali       Cali
+0487ALAMEDA                              Alameda             Cali
+0488CIUDAD CORDOBA                       Ciudad Cordoba      Cali
+0490AVENIDA TERCERA                      Av Tercera          Cali
+0491CENTRO COMERCIAL MURANO NEIVA        C Cial Murano Neiva Neiva
+0492PARQUE DE LA INDEPENDENCIA           Parq Independen     Bogota
+0493CTRO CCIAL GRAN PLAZA DEL SOL        Ctr Cial G Plz Sol  Soledad
+0494PLAZA MDO VALLEDUPAR                 Plaza Mercado       Valledupar
+0495EL TEMPLETE CALI                     El Templete Cali    Cali
+0496CALLE DE LA HERRERIA                 Calle De La HerreriaPopayan
+0497OFICINA CALDAS                       Oficina Caldas      Caldas
+0498CENTRO COMERCIAL CARRERA             Ctr Cial Carrera    Cali
+0500CARRERA 11 CON 81                    Cra 11 con 81       Bogota
+0504AVDA PEDRO HERIDIA                   Pedro Heredia       Cartagena
+0506CITY U                               City U              Bogota
+0510LAURELES                             Laureles            Medellin
+0511CALLE 18                             Calle 18            Bogota
+0512ISMAEL PERDOMO                       Ismael Perdomo      Bogota
+0513PUERTO WILCHES                       Puerto Wilches      Pto Wilches
+0514PUERTO BERRIO                        Puerto Berrio       PuertoBerrio
+0516LOS PATIOS NORTE/SANTANDER           Los Patios N/SantandLos Patios
+0518ARGOS                                Argos               Medellin
+0519ARBELAEZ                             Arbelaez            Cundinamarca
+0520POPAYAN                              Popayan             Popayan
+0524CASTILLA                             Castilla            Medellin
+0525OFIC REC Y PAGO PARQUE NACIONAL      Of Rec y Pago Pq NalBogota
+0526QUIMBAYA                             Quimbaya            Quimbaya
+0528AMERICA                              America             Medellin
+0529CENTRO COMERCIAL ARRECIFE            Ctro Ccial Arrecife Santa Marta
+0530RIOHACHA                             Riohacha            Riohacha
+0531SAN IGNACIO                          San Ignacio         Medellin
+0532RIONEGRO                             Rionegro            Rionegro
+0534BELLO PLAZA                          Bello Plaza         Bello
+0535ARMENIA CALLE 21 CRA 17              Armenia Cll 21 Cr 17Armenia
+0536GCIA OPERATIVA DE CARTERA            Gcia Oper Cartera   BOGOTA
+0538CTR CIAL UNICENTRO MEDELLIN          Ctr Cial Unic MedellMedellin
+0539SAN ALBERTO                          San Alberto         San Alberto
+0540SAN ANDRES                           S Andres Isla       San Andres
+0541GCIA OPERATIVA VIVIENDA Y VEHICULO   G.Oper Vivien VehicuBogota
+0542CTRO CIAL CTRO MAYOR                 Ctro Cial Ctro MayorBogota
+0543LA SETENTA                           La Setenta          Medellin
+0544SANTA LIBRADA                        San Fernando        Cali
+0545PREMIUM AV.19 CALLE 114              Banca PMP Bogota NteBogota
+0546ORITO                                Orito               Orito
+0547EXTENSION OFICINA CAICEDONIA         Ext Ofic Caicedonia Caicedonia
+0548SAN JUAN DEL CESAR                   S JuandeCesar       SJuandelCesar
+0549PREMIUM EDF BCO DE BOGOTA BOCAGRANDE Prem Ed Bdb BocagranCartagena
+0550CENTRO COMERCIAL CITY PLAZA          Ctro CCial City PlazEnvigado
+0551CCIAL UNICENTRO GIRARDOT             CC Unicentro GirardoGIRADOT
+0552CALLE 39 MONTERIA                    Calle 29 Monteria   Monteria
+0553PREMIUM CARRERA 11 CON 81            Prem Cra 11 con 81  Bogota
+0554SANTA ROSA DE OSOS                   Sta Rosade Osos     SRosa Osos
+0556SAN MARTIN                           San Martin          San Martin
+0558CCIAL BOSQUE PLAZA                   CC Bosque Plaza     MEDELLIN
+0562TUNJUELITO                           Tunjuelito          Bogota
+0564SANTA MARTA                          Santa Marta         Santa Marta
+0566SANTA MONICA                         Santa Monica        Cali
+0568SANTA RITA                           Santa Rita          Cali
+0569OF DE RECAUDOS Y PAGOS CANAVERAL     Of Rdos y Pgos CanavFloridablnc
+0570GUASCA                               Guasca              Guasca
+0571CENTRO DE SERVICIOS BANCA PYME       Ctro Scios Bca Pyme Bogota
+0572SANTA ROSA DE CABAL                  Sta Rosa Cabal      StaRosaCabal
+0574LA CORDIALIDAD                       La Cordialidad      Barranquilla
+0575GCIA OPER Y DESA BANCA SOCIAL        Gcia Oper y Desa    Bogota
+0576SANTA ROSA DE VITERBO                Sta Rosa Viterb     Sta Rosa Viter
+0578QUIBDO                               Quibdo              Quibdo
+0580CAQUEZA                              Caqueza             Caqueza
+0582OFIC REC Y PAGO CUCUTA               Of Rec y Pag Cucuta Cucuta
+0583TOLEMAIDA                            Tolemaida           Nilo
+0584SECTOR ESTADIO                       Sect Estadio        Medellin
+0585SECTOR SUR TUNJA                     Sect Sur Tunja      Tunja
+0587SIBATE                               Sibate              Sibate
+0588SEVILLA                              Sevilla             Sevilla
+0589TERMINAL DE TRANSPORTE MANIZALES     Term Transp ManizaleManizales
+0590REAL DE MINAS                        Real de Minas       Bucaramanga
+0592SINCELEJO                            Sincelejo           Sincelejo
+0593LA MILAGROSA                         La Milagrosa        Medellin
+0594ECONOCUENTA                          Econocuenta         Bogota
+0595LA LOMA                              La Loma             El Paso
+0596SOGAMOSO                             Sogamoso            Sogamoso
+0597SOPO                                 Sopo                Sopo
+0598CENTRO COMERCIAL SAVANNA             Ctr Cial Savanna    Rionegro
+0599LA JAGUA                             La Jagua            La Jagua
+0600CENTRO COMERCIAL CABECERA            Ccial Cabecera      Bucaramanga
+0601C CIAL VENTURA PLAZA - CUCUTA        Ventura Plaza       Cucuta
+0602OFIC REC Y PAGO TEQUENDAMA           Of Rec y Pag TequendBogota
+0603TERMINAL TRANSPORTES SOGAMOS         Term.TransSog       Sogamoso
+0604BRICENO                              Briceno             Briceno
+0605TOBERIN                              Toberin             Bogota
+0606TINTAL PLAZA                         Tintal Plaza        Bogota
+0607CENTRO COMERCIAL FLORESTA OUTLET     Floresta Outlet     Bogota
+0608TOCAIMA                              Tocaima             Tocaima
+0609C.C. CARULLA PANCE                   C.C.Carulla Pance   Cali
+0610GCIA OPERATIVA DE TARJETAS Y ADQUIRE G.Oper Tarj y Adqui Bogota
+0611UBATE                                Ubate               Ubate
+0612TULUA                                Tulua               Tulua
+0613CENTRO DE SERVICIOS BANCA PYME 613   Ct.Serv.Bca.PYME 613Cali
+0614C CIAL UNICENTRO CUCUTA              C Cial Unicentro    Cucuta
+0615CENTRO COMERCIAL SANTAFE II          C Cial Santafe      Bogota
+0616TUNJA                                Tunja               Tunja
+0617OF DE RECAUDOS Y PAGOS PQ EL VIRREY  Of R Y P Cr 15 Cl 90Bogota
+0618CHIGORODO                            chigorodo           Chigorodo
+0619VILLA DEL ROSARIO                    Villa del Rosario   Vlla Rosario
+0620TURBO                                Turbo               Turbo
+0621CTRO EMP PARALEL 108                 ctro emp pararle 108Bogota
+0622CALLE 104 AVENIDA 19                 Calle 104 Av 19     Bogota
+0624PARQUE AGROINDUSTRIAL                Parq Agroindust     Cota
+0625PUERTO RICO                          Puerto Rico         Caqueta
+0627CARRERA 38 CON CALLE 70              Cra 38 con calle 70 Barranquilla
+0628VALLEDUPAR                           Valledupar          Valledupar
+0629OFIC REC Y PAGO CL 13 31-56          Of Rec Pag C13 31-56Bogota
+0630SECTOR VIVERO                        Sect Vivero         Barranquilla
+0631OFI.PRE.LUIS.C.SARMIENTO             Ofi.Pre.Luis.SarmienBogota
+0632TOCANCIPA                            Tocancipa           Tocancipa
+0633UNICENTRO PEREIRA                    Unicentro Pereira   Pereira
+0634SAN LUCAS PLAZA                      San Lucas Plaza     Medellin
+0636VILLAVICENCIO                        V/Cencio            V/cencio
+0637OFICINA WORLD TRADE CENTER           World Trade Center  Bogota
+0638CENTRO COMERCIAL SANTA LUCIA PLAZA   CC Santa Lucia PlazaNeiva
+0639VIPASA                               Vipasa              Cali
+0640LA VEGA                              La Vega             Villeta
+0641OFICINA BELLA SUIZA                  Oficina Bella Suiza Bogota
+0642SAN JUAN PLAZA NEIVA                 Sn Juan Plaza Neiva Neiva
+0643OFICINA CIUDAD BOLIVAR               Ciudad Bolivar      C Bolivar
+0644YARUMAL                              Yarumal             Yarumal
+0645OFIC REC Y PAGO CRA PRIMERA          Of Rec y Pag Cra 1raCali
+0646YOPAL                                Yopal               Yopal
+0648YUMBO                                Yumbo               Yumbo
+0649CENTRO COMERCIAL NUESTRO URABA       CC Nuestro Uraba    Apartado
+0650EXTENSION DE OFICINA BELEN DE UMBRIA Ext Of Bln de UmbriaBln Umbr
+0652PURIFICACION                         Purificacion        Purificacion
+0653OFICINA GUAYABAL BOX                 Guayabal Box        Medellin
+0654GCIA OPERA DE ACTIV PERSONA JURIDICA G.oper act per juridBogota
+0655ESCUELA MILITAR DE CADETES JOSE M C  Esc Militar Cadetes Bogota
+0656ZARZAL                               Zarzal              Zarzal
+0657CENTRO COMERCIAL LOS MAYALES         Ctr Cial Los MayalesValledupar
+0658OFICINA PREMIUM EDF BANCO BTA BQUILLAOf Prem E Bco Bta BqBquilla
+0659OFIC REC Y PAGO CARTAGENA            Of Rec y Pag Ctgena Cartagena
+0660ZIPAQUIRA                            Zipaquira           Zipaquira
+0661EXT DE OFICINA UNIVERSIDAD DEL NORTE Ext Of Universid NteBquilla
+0663OFI.REC.PAGOS CALLE 128              Ofi.Rec.Pagoscll128 Bogota
+0665TARJETAS MARCAS COMPARTIDAS CEOI     Tar Marca Comp CEOI Bogota
+0666NORMALIZACION PMP COSTA              Normal. Pmp Costa   Bogota
+0667NORMALIZACION PMP ORIENTE            Normal. Pmp Oriente Bogota
+0668OFIC REC Y PAGO AV 40 VILLAVICENCIO  Of Rec y Pag Av 40 VV/cencio
+0669NORMALIZACION PMP OCCIDENTE          Normal. Pmp Occiden.Bogota
+0670NORMALIZACION PMP BOGOTA SUR         Normal. Pmp Bta Sur Bogota
+0671OFIC REC Y PAGO LA CAMPINA           Of Rec y Pag La CampCali
+0672NORMALIZACION PMP CENTRAL            Normal. Pmp Central Bogota
+0674EXT OFICINA PROVIDENCIA              Ext Oficina ProvidenProvidencia
+0675CC LE CHAMP                          CC Le Champ         Bquilla
+0676PAIPA                                Paipa               Paipa
+0677CENTRO COMERCIAL PREMIUM PLAZA       Premium Plaza       Medellin
+0678CENTRO CIAL LA 14 VALLE DE LILI      La 14 Valle de lili Cali
+0679PARQUE COMERCIAL RIO CAUCA           P Cial Rio Cauca    Cali
+0680CTRO.SERV.BCA.PYME MEDELLIN          Ctro.Serv.Bca.Pyme MMedellin
+0692TUMACO                               Tumaco              Tumaco
+0693UNICENTRO PASTO                      Unicentro Pasto     Pasto
+0694UNICENTRO BOGOTA ENTRADA 7           Unicent.bgt Entrada7Bogota
+0695PTO CARRENO                          Pto Carreno         Pto Carreno
+0697PUERTO LOPEZ                         Pto Lopez           Pto Lopez
+0699BASE MILITAR LARANDIA                Bas.Militar LarandiaFlorencia
+0700CENTRO DE OPERACIONES BOGOTA         Ctro.Oper.Bta       Bogota
+0701CENTRO DE OPERACIONES MEDELLIN       Ctro.Oper.Med       Medellin
+0702GCIA OPERATIVA GARANTIAS             G. Oper garantias   Bogota
+0704QUIRINAL                             Quirinal            Neiva
+0705OFICINA CASTILLA LA NUEVA            Castilla la Nueva   Castilla
+0706CENTRO DE OPERACIONES OCCIDENTE      Ctro.Oper.Occ       Cali
+0707CENTRO DE OPERACIONES COSTA          Ctro.Oper.Cos       Barranquilla
+0708OFICINA MADRID                       Oficina Madrid      Madrid
+0713CENTRO DE OPERACIONES ORIENTE        Ctro.Oper.Ori       Bucaramanga
+0715CENTRO DE OPERACIONES PEREIRA        Ctro.Oper.Per       Pereira
+0750GUAMO                                Guamo               Guamo
+0752CENTRO COMERCIAL AVESMARIA           C Cial Avesmaria    Medellin
+0757NORMALIZACION CEOI COSTA             Normal. Ceoi Costa  Barranquilla
+0760NORMALIZACION PMP BOGOTA NORTE       Normal. Pmp Bta Nte Bogota
+0767CHAPARRAL                            Chaparral           Chaparral
+0768CENTRO DE SERV EMPRESARIAL MEDELLIN  Ctr.Serv.Emp Medell Medellin
+0769CENTRO DE SERV EMPRESARIAL BOGOTA    Ctr.Serv.Emp Bogota Bogota
+0770CENTRO DE ATENCION PREFERENTE        Ctr.Atencion Prefer Medellin
+0771CENTRO DE SERV EMPRESARIAL BQUILLA   Ctr Serv.Emp BquillaBarranquilla
+0772CENTRO DE SERV EMPRESARIAL CALI      Ctr Serv Emp Cali   Cali
+0773CENTRO DE SERV EMPRESARIAL BMANGA    Ctr Serv Emp Bmanga Bucaramanga
+0774CENTRO DE ATENCION PREFERENTE BQL    Ctro Aten Pref Bql  Bquilla
+0775CENTRO DE ATENCION PREFERENTE BTA 1  Ctro Aten Pref Bta 1Bogota
+0776CENTRO DE ATENCION PREFERENTE BTA 2  Ctro Aten Pref Bta 2Bogota
+0777CHEQUES MAL REMITIDOS                Cheques Mal Remitid Bogota
+0778DIRECCION NACIONAL DE COBRANZAS      Dir Nal Cobranzas   Bogota
+0779CENTRO DE ATENCION PREFERENTE BTA 3  Ctro Aten Pref Bta 3Bogota
+0780CENTRO DE ATENCION PREFERENTE BTA 4  Ctro Aten Pref Bta 4Bogota
+0781MONTENEGRO                           Montenegro          Montenegro
+0782CENTRO DE ATENCION PREFERENTE BTA 5  Ctro Aten Pref Bta 5Bogota
+0783CENTRO DE ATENCION PREFERENTE BUC    Ctro Aten Pref Buc  Bmanga
+0784CENTRO DE ATENCION PREFERENTE CAL    Ctro Aten Pref Cal  Cali
+0788UNIDAD VEHICULOS MEGABANCO ANTIOQ.   Un Veh. Megabco Ant Medellin
+0792CALLE SEPTIMA NEIVA                  Calle Sept. Neiva   Neiva
+0793PITALITO                             Pitalito            Pitalito
+0796CENT CIAL GRAN PLAZA BOSA            C.C Gran Plz Bosa   Bosa
+0798SUBACHOQUE                           Subachoque          Subachoque
+0799CALERA                               Calera              Bogota
+0800PLANETA RICA                         planeta rica        Planeta R
+0801ENGATIVA                             Engativa            Bogota
+0802CENTRO SUBA                          Centro Suba         Bogota
+0803SAN NICOLAS                          San Nicolas         Cali
+0804OFICINA PUERTO GAITAN META           Pto Gaitan Meta     Pto Gaitan
+0807CENTRO COMERCIAL UNICENTRO TUNJA     C Cial Unicentro T  Tunja
+0808CENTRO COMERCIAL PUERTA DEL NORTE    Puerta del Norte    Bello
+0810CENTRO COMERCIAL METROPOLITANO       CC Metropolitano    Soledad
+0811ARKADIA                              Arkadia             Medellin
+0812OFIC REC Y PAGO AV SEXTA             Of Rec y Pag Av SextCali
+0815OFIC REC Y PAGO YUMBO                Of Rec y Pag Yumbo  Cali
+0817C CIAL CAMPANARIO POPAYAN            CC Campanario       Popayan
+0819CAMPIN                               Campin              Bogota
+0821CORRESPONSALES BANCARIOS DIF EXITO   Corr Brios Dif ExitoBogota
+0822CENTRO COMERCIAL MEGACITY            CC Megacity         Zipaquira
+0823CORRESPONSALES BANCARIOS EXITO       Corresp Ban Gran SupBogota
+0825EL ZULIA                             El Zulia            Bogota
+0827OFICINA PREMIUM EDIFICIO BANCO BOGOTAOf Prm Edif Bco Bta Cali
+0828OFIC REC Y PAGO IMBANACO             Of Rec y Pag ImbanacCali
+0829CENTRO COMERCIAL NUESTRO MONTERIA    CC Nuestro Monteria Monteria
+0830SOLEDAD ATLANTICO                    Soledad Atlantico   Soledad
+0833GCIA CORPORAT 833                    GCIA CORPORAT 833   Cali
+0834OFICINA FOSCAL INTERNACIONAL         Of Foscal IntncionalFloridablanc
+0835SAHAGUN                              sahagun             Sahagun
+0836MURILLO TORO                         Murillo Toro        Ibague
+0837LOS OCOBOS                           Los Ocobos          Ibague
+0838OFICINA CTRO COMERCIAL PENALISA MALL Of CC Penalisa Mall Nilo
+0839OFIC REC Y PAGO IBAGUE               Of Rec y Pag Ibague Ibague
+0840FRESNO                               Fresno              Fresno
+0841MANZANARES                           Manzanares          Manzanares
+0842PARQUE LAGO URIBE PEREIRA            Pque Lago Uribe PerePereira
+0843OFIC REC Y PAGO NEIVA                Of Rec y Pag Neiva  Neiva
+0845CIUDAD MILAGRO ARMENIA               Ciudad Milagro ArmenArmenia
+0846NORMAL. CARTERA VEHICULOS RED MEG.   Normlz Ctra Vehic ReBogota
+0847ANSERMA                              Anserma             Anserma
+0848RIOSUCIO                             Riosucio            Riosucio
+0849CARRERA 33 CABECERA                  Carrera 33 Cabecera B/manga
+0850PARQUE URIBE BARRANCABERMEJA         Pque Uribe Barrberm.B/meja
+0852VILLA JULIA                          Villa Julia         Villa/cio
+0853CUMARAL                              Cumaral             Cumaral
+0855RIO CRAVO                            Rio Cravo           Yopal
+0856OFIC REC Y PAGO CALLE 30             Of Rec y Pag Cll 30 Barranquilla
+0857GCIA CORPORAT 857                    GCIA CORPORAT 857   Medellin
+0858GCIA EMPRESA 858                     GCIA EMPRESA 858    Medellin
+0859GCIA EMPRESA 859                     GCIA EMPRESA 859    Bucaramanga
+0860GCIA CORPORAT 860                    GCIA CORPORAT 860   Barranquilla
+0861OFIC REC Y PAGO BUENAVENTURA         Of Rec y Pag BventurBueneventura
+0862OFIC REC Y PAGO CC MERCURIO          Of Rec y Pag CC MercSoacha
+0863CTR COMERCIAL GUATAPURI              Ctr Cial Guatapuri  Valledupar
+0864OFIC REC Y PAGO VALLEDUPAR           Of Rec y Pag Vdupar Valledupar
+0865OFIC REC Y PAGO SC ESTA MEDELLIN     Of Rec Pag Sc Est MeMedellin
+0866TARJETAS MARCAS COMPARTIDAS PMP      Tar Marca Comp PMP  Bogota
+0867GERENCIA CEO EMPRESARIAL Y OFICIAL MBGcia CEO emp y of mbBogota
+0868INGREDION COLOMBIA SA                Ingredion Colombia  Cali
+0869C CIAL PREMIER EL LIMONAR            Ccial Prem el LimonaCali
+0870GCIA EMPRESARIAL 0870                GCIA EMPRESA 0870   Bogota
+0874CTR CIAL MIRAMAR BARRANQUILLA        C Cial Miramar      Barranquilla
+0875UN VEHICULOS MEGABANCO BUCARAMANGA   Un Veh Megabco Bmga Norte
+0878OFICINA CLINICA META                 Oficina Clinica MetaV/cencio
+0879PREMIUM CALLE 36                     Banca PMP Bogota SurBogota
+0880MONTERIA NORTE                       Monteria Norte      Monteria
+0881OFIC REC Y PAGO CABECERA             Of Rec y Pag CabecerBucaramanga
+0882GCIA EMPRESA 882                     GCIA EMPRESA 882    Bucaramanga
+0883OFIC REC Y PAGO CTRAL ABASTOS        Of Rec y Pag Ct AbasItagui
+0885ANAPOIMA                             Anapoima            Anapoima
+0888CAJERO AUTOMATICO                    Cajero Automat      Bogota
+0889OFIC REC Y PAGO PLAZA BOLIVAR PEREIRAOf Rec Pag Pz Blv PePereira
+0890CANALES ELECTRONICOS                 Canal Electro       Bogota
+0894OFIC REC Y PAGO BARRIO COLOMBIA      Of Rec y Pag Br ColoMedellin
+0895MONIQUIRA                            Moniquira           Moniquira
+0896GERENTE PREMIUM 19                   Banca PMP Bogota SurBogota
+0897OFICINA CAUCASIA                     Caucasia            Caucasia
+0899UNIVERSIDAD EL BOSQUE                Universid el Bosque Bogota
+0900CENTRO COMERCIAL CACIQUE             Ctro Comerc Cacique B/manga
+0902GERENCIA TRIBUTARIA                  Gcia tributaria     Bogota
+0905 CUENTAS TRANSFER                    Cuentas Transfer    BOGOTA
+0906OFIC REC Y PAGO CALLE 72             Of Rec y Pag Cll 72 Barranquilla
+0907CENTRO COMERCIAL CARIBE PLAZA        C Cial Caribe Plaza Cartagena
+0910CTR COMERCIAL PORTAL DEL PRADO       CC Portal del Prado Barranquilla
+0911C.C VIVA  BUENAVENTURA               C.c Viva  Buenavent Bueneventura
+0912CTRO CIAL PEREIRA PLAZA              ctro cial pereira plPereira
+0913CTRO CIAL VICTORIA P                 ctro cial victoria pPereira
+0914MUNICIPIO DE GUARNE                  Municipio Guarne    Guarne
+0915GERENTE PREMIUM 20                   Banca PMP Bogota SurBogota
+0920OFICINA SIBERIA                      Oficina Siberia     Bogota
+0921DIRECCION DE CONTABILIDAD            Direc de Contabilid Bogota
+0924OFICINA PREMIUM URBAN PLAZA          Of Premium Urban PlzBogota
+0937OFICINA GIGANTE                      Oficina Gigante     Gigante
+0939EXT OFIC TERMINAL DE TRANSPORTE PASTOExt Of T.Transp PastPasto
+0940GCIA OPERATIVA TRANS ELECTRONICAS    Gcia Oper Trans ElecBogota
+0941GCIA B SOC FED NAC CAFETEROS         Gcia B S Fed Nac CafBogota
+0942MUNICIPIO DE SANTUARIO               Municipio Santuario Santuario
+0943COE TALENTO Y CULTURA                Coe Talento Cultura Bogota
+0944DIR CADENA DE ABASTECIMIENTO         Dir Caden Abastecim Bogota
+0946ALIANZA CON PORVENIR                 Alianza Porvenir    Bogota
+0948CENTRO COMERCIAL MIRAFLOREZ          Ctro Ccial MirafloreSoacha
+0949DIRECCION ANTIOQUIA Y EJE            DIRECCION ANTIOQUIA Medellin
+0959DIR. PYME-PERS. OCCIDENTE            Dir.Pyme Pers       Cali
+0960DIRECCION CENTRAL                    DIRECCION CENTRAL   Bogota
+0961DIRECCION CARIBE                     DIRECCION CARIBE    B/manga
+0965PREMIUM SAB FERNANDO PLAZA           Banca PMP Antioquia Medellin
+0966GERENCIA PREMIUM 5                   Banca PMP Antioquia Medellin
+0967GERENCIA PREMIUM 6                   Banca PMP Antioquia Medellin
+0968PREMIUM CTRO.CCIAL.UNI.CALI          Banca PMP Occidente Cali
+0969GERENTE PREMIUM 7                    Banca PMP Occidente Cali
+0970GCIA EMPRESA 970                     GCIA EMPRESA 970    Bucaramanga
+0971GERENTE PREMIUM 8                    Banca PMP Occidente Cali
+0972GERENTE PREMIUM 9                    Banca PMP Occidente Cali
+0973GERENCIA PREMIUM 26                  Gerencia Premium 26 Bogota
+0975PREMIUM CENTRO EMP. LAS AMERICAS II  Banca PMP Costa     Barranquilla
+0977GERENCIA PREMIUM 10                  Banca PMP Costa     Barranquilla
+0978GERENCIA PREMIUM 11                  Banca PMP Costa     Barranquilla
+0979OFICINA ALAMEDA REYES                Oficina Alameda ReyeQuibdo
+0980SAN PEDRO DE LOS MILAGROS            San Pedro De Los Mi.Medellin
+0981CENTRO COMERCIAL UNICENTRO ARMENIA   Armenia Cr 14 No 6-2Armenia
+0983LA ESTRELLA                          La Estrella         La Estrella
+0984PTO BOYACA                           Pto Boyaca          Pto Boyaca
+0985PREMIUM CABECERA                     Banca PMP Oriente   Bucaramanga
+0986GERENCIA PREMIUM 12                  Banca PMP Oriente   Bucaramanga
+0987GERENCIA PREMIUM 13                  Banca PMP Oriente   Bucaramanga
+0989CALLE 122 CRA 15 A                   Clle 122 Cra 15 a   Bogota
+0990GCIA OPERATIVA ATENCION ENTES EXTER  G.Oper Aten Ent ExteBogota
+0991EL PORVENIR                          El porvenir         Cali
+0992GERENCIA PREMIUM 14                  Banca PMP Antioquia Medellin
+0993VILLANUEVA                           Villanueva          V/Nueva
+0994OFIC REC Y PAGO ITAGUI               Of Rec y Pag Itagui Itagui
+0995CALLE 98                             Cll 98              Bogota
+0996CTR EMPRESARIAL LAS AMERICAS         Ctr Emp Las AmericasBarranquilla
+0997EXTENSION OFI. BECERRIL              Ofi.Basica Becerril Becerral
+1003NORMALIZACION CARTERA ANTIOQUIA PMP  Normal Ctera Ant PmpMedellin
+1004GERENCIA PREFERENTE 1004             G. Preferente 1004  Bogota
+1005GERENCIA PREFERENTE 1005             G. Preferente 1005  Bogota
+1006GERENCIA PREFERENTE 1006             G. Preferente 1006  Bogota
+1007GERENCIA PREFERENTE 1007             G. Preferente 1007  Bogota
+1008GERENCIA PREFERENTE 1008             G. Preferente 1008  Bogota
+1009GERENCIA PREFERENTE 1009             G. Preferente 1009  Bogota
+1010GERENCIA PREFERENTE 1010             G. Preferente 1010  Bogota
+1011GERENCIA PREFERENTE 1011             G. Preferente 1011  Bogota
+1012GERENCIA PREFERENTE 1012             G. Preferente 1012  Bogota
+1013GERENCIA PREFERENTE 1013             G. Preferente 1013  Bogota
+1014GERENCIA PREFERENTE 1014             G. Preferente 1014  Bogota
+1015GERENCIA PREFERENTE 1015             G. Preferente 1015  Bogota
+1016GERENCIA PREFERENTE 1016             G. Preferente 1016  Bogota
+1021GCIA PREMIUM 38                      gcia premium 38     BOGOTA
+1022GCIA PREMIUM 39                      gcia premium 39     BOGOTA
+1023GERENCIA PREMIUM 43                  Gcia Premium 43     Medellin
+1026GERENCIA PREMIUM 46                  Gcia Premium 46     Cartagena
+1027GERENCIA PREMIUM 47                  Gcia Premium 47     Cartagena
+1028GERENCIA PREMIUM 48                  Gcia Premium 48     Cali
+1029GERENCIA PREMIUM 49                  Gcia Premium 49     Cali
+1030GERENCIA PREMIUM 50                  Gcia Premium 50     Cali
+1031GER EMPRESARIAL 1031                 Ger Empresarial 1031Cucuta
+1032GERENCIA ZONA EMPRESARIAL BOGOTA 2A  Ger Zna Empre Bta 2ABogota
+1033GER PYME 1033                        Ger Pyme 1033       Bogota
+1034GCIA EMPRESA 1034                    GCIA EMPRESA 1034   Bogota
+1035GCIA CORPORAT 1035                   GCIA CORPORAT 1035  Medellin
+1036GER CORPORATIVO 1036                 Ger Corporativo 1036B/quilla
+1037GCIA NORM CORP COSTA                 Gcia Norm Corp CostaB/quilla
+1038GCIA NORM EMP BTA 2                  Gcia Norm Emp Bta 2 BOGOTA
+1041CARTERA VEHICULOS BOGOTA             Carta Vehicul BogotaCALI
+1042NORMALIZ.BOGOTA                      Normaliz.Bogota     BOGOTA
+1043NORMALIZ.COSTA.ORIENTE               Normaliz.Costa.OrienBOGOTA
+1044COMPRA DE CARTERA SERVICREDITO       Compra Ctera ServicrMEDELLIN
+1045NORMLIZ.ANT.OCCIDENTE                Norm.Ant.Occidente  CALI
+1046GERENCIA PREMIUM 58                  Gcia Premium 58     Cali
+1047GERENCIA PREMIUM 59                  Gcia Premium 59     Bogota
+1048GERENCIA PREMIUM 60                  Gcia Premium 60     Bogota
+1049GERENCIA PREMIUM 61                  Gcia Premium 61     Bogota
+1050GERENCIA PREMIUM 62                  Gcia Premium 62     Bogota
+1051GERENCIA PREMIUM 51                  Gerencia Premium 51 Bquilla
+1052GERENCIA PREMIUM 52                  Gerencia Premium 52 Bquilla
+1053GERENCIA PREMIUM 53                  Gerencia Premium 53 Pereira
+1054GERENCIA PREMIUM 54                  Gerencia Premium 54 Pereira
+1055GCIA NAL NORMALIZACION BC DE EMPRESASGcia Nal Norma Bc EmBogota
+1056GERENCIA PREMIUM 55                  Gerencia Premium 55 Floridblc  ca
+1057GERENCIA PREMIUM 56                  Gcia Premium 56     Bquilla
+1058GERENCIA PREMIUM 57                  Gcia Premium 57     Medellin
+1060GERENCIA PREMIUM 64                  Gcia Premium 64     Medellin
+1061GERENCIA PREMIUM 65                  Gcia Premium 65     Medellin
+1062GERENCIA PREMIUM 66                  Gcia Premium 66     Medellin
+1063GCIA CORPORAT 1063                   GCIA CORPORAT 1063  Medellin
+1064GERENCIA PREMIUM 67                  Gcia Premium 67     Cali
+1065ZONA 1 BOGOTA VEHICULOS              Zona 1 Bta VehiculosBogota
+1066ZONA 2 BOGOTA VEHICULOS              Zona 2 Bta VehiculosBogota
+1067ZONA 3 BOGOTA VEHICULOS              Zona 3 Bta VehiculosBogota
+1068ZONA 2 ANTIOQUIA VEHICULOS           Zona 2 Ant VehiculosMedellin
+1069ZONA 1 BARRANQUILLA VEHICULOS        Zn 2 Bquilla VehiculBquilla
+1070ZONA 1 ANTIOQUIA VEHICULOS           Zona 1 Ant VehiculosMedellin
+1071GERENCIA PREMIUM 68                  Gcia Premium 68     Bogota
+1072GERENCIA PREMIUM 69                  Gcia Premium 69     Bogota
+1073GERENCIA PREMIUM 70                  Gcia Premium 70     Bogota
+1074CARTERA LEASING CORFICOLOMBIANA      Cartera Leasing CorfBogota
+1075GERENCIA PREMIUM 71                  Gcia Premium 71     Bogota
+1076GERENCIA PREMIUM 72                  Gcia Premium 72     Bogota
+1077GERENCIA PREMIUM 73                  Gcia Premium 73     Bogota
+1078GERENCIA PREMIUM 74                  Gcia Premium 74     Bogota
+1079GERENCIA PREMIUM 75                  Gcia Premium 75     Bogota
+1080GERENCIA PREMIUM 76                  Gcia Premium 76     Bmanga
+1081GER CORPORATIVO 1081                 Ger Corporativo 1081Bquilla
+1082GCIA EMPRESA 1082                    GCIA EMPRESA 1082   Medellin
+1083GCIA CORPORAT 1083                   GCIA CORPORAT 1083  Bogota
+1084GCIA EMPRESA 1084                    GCIA EMPRESA 1084   Bogota
+1085GER EMPRESARIAL 1085                 Ger Empresarial 1085Bogota
+1086GCIA EMPRESA 1086                    GCIA EMPRESA 1086   Bmanga
+1087GERENCIA PREFERENTE 1087             G. Preferente 1087  Bogota
+1088GERENCIA PREFERENTE 1088             G. Preferente 1088  Bogota
+1089GERENCIA PREFERENTE 1089             G. Preferente 1089  Bogota
+1090GERENCIA PREFERENTE 1090             G. Preferente 1090  Bogota
+1091GERENCIA PREFERENTE 1091             G. Preferente 1091  Bogota
+1092GERENCIA PREFERENTE 1092             G. Preferente 1092  Bogota
+1093GERENCIA PREFERENTE 1093             G. Preferente 1093  Bogota
+1094GERENCIA PREFERENTE 1094             G. Preferente 1094  Bogota
+1095GERENCIA PREFERENTE 1095             G. Preferente 1095  Bogota
+1096GERENCIA PREFERENTE 1096             G. Preferente 1096  Bogota
+1097GERENCIA PREFERENTE 1097             G. Preferente 1097  Bogota
+1098GERENCIA PREFERENTE 1098             G. Preferente 1098  Bogota
+1099GERENCIA PREFERENTE 1099             G. Preferente 1099  Bogota
+1100GERENCIA PREFERENTE 1100             G. Preferente 1100  Bogota
+1101GERENCIA PREFERENTE 1101             G. Preferente 1101  Bogota
+1102GERENCIA PREFERENTE 1102             G. Preferente 1102  Bogota
+1103GERENCIA PREFERENTE 1103             G. Preferente 1103  Bogota
+1104GERENCIA PREFERENTE 1104             G. Preferente 1104  Bogota
+1105GERENCIA PREFERENTE 1105             G. Preferente 1105  Bogota
+1106GERENCIA PREFERENTE 1106             G. Preferente 1106  Bogota
+1107GERENCIA PREFERENTE 1107             G. Preferente 1107  Bogota
+1108GERENCIA PREFERENTE 1108             G. Preferente 1108  Bogota
+1109GERENCIA PREFERENTE 1109             G. Preferente 1109  Bogota
+1110GERENCIA PREFERENTE 1110             G. Preferente 1110  Bogota
+1111GERENCIA PREFERENTE 1111             G. Preferente 1111  Bogota
+1112GERENCIA PREFERENTE 1112             G. Preferente 1112  Bogota
+1113GERENCIA PREMIUM 77                  Gcia Premium 77     Bquilla
+1114GERENCIA PREMIUM 78                  Gcia Premium 78     Bogota
+1115GERENCIA PREMIUM 79                  Gcia Premium 79     Bquilla
+1116GERENCIA PREMIUM 80                  Gcia Premium 80     Bogota
+1117GCIA EMPRESA 1117                    GCIA EMPRESA 1117   Bogota
+1118GERENCIA PREMIUM 81                  Gcia Premium 81     Bogota
+1119GERENCIA PREMIUM 82                  Gcia Premium 82     Bogota
+1120GERENCIA PREMIUM 83                  Gcia Premium 83     Bogota
+1121GERENCIA PREMIUM 84                  Gcia Premium 84     Bogota
+1122GERENCIA PREMIUM 85                  Gcia Premium 85     Bmanga
+1123GERENCIA PREMIUM 86                  Gcia Premium 86     Bmanga
+1124GERENCIA PREMIUM 87                  Gcia Premium 87     Cali
+1125MICROFINANZAS OCCIDENTE IV IPIALES   Mic Occd IV Ipiales Ipiales
+1126MICROFINANZAS OCCIDENTE V POPAYAN    Mic Occd V Popayan  Popayan
+1127MICROFINANZAS COSTA VII RIOHACHA     Mic Costa VII RiohacRiohacha
+1128MICROFINANZAS BOGOTA OCCIDENTE       Mic Bta Occidente   Bogota
+1129MICROFINANZAS CENTRAL V PITALITO     Mic Central V Pital Pitalito
+1130GERENCIA PREMIUM 88                  Gcia Premium 88     Cali
+1131MICROFINANZAS COSTA VIII SOLEDAD     Mic Costa VIIi S/dadSoledad
+1132MICROFINANZAS ORIENTE VI SAN GIL     Mic Oriente VI S GilSan Gil
+1133MICROFINANZAS ORIENTE VII YOPAL      Mic Ote VII Yopal   Yopal
+1134MICROFINANZAS ANTIOQUIA VII QUIBDO   Mic Atq VII Quibdo  Quibdo
+1135GERENCIA PREMIUM 89                  Gcia Premium 89     Cali
+1136GERENCIA BANCA PYME 49               Gcia Bca Pyme 49    Medellin
+1137GERENCIA PREMIUM 90                  Gcia Premium 90     Medellin
+1138GERENCIA PREMIUM 91                  Gcia Premium 91     Medellin
+1139GERENCIA PREMIUM 92                  Gcia Premium 92     Medellin
+1141MICROFINANZAS CENTRAL VI GIRARDOT    Mic Ctral VI GirardoGirardot
+1142MICROFINANZAS ANTIOQUIA VIII ARMENIA Mic Antioq VIII ArmeArmenia
+1152GERENCIA BANCA PYME 50               Gcia Bca Pyme 50    Medellin
+1153GERENCIA PYME 1153                   GERENCIA PYME 1153  Zipaquira
+1154GERENCIA PYME 1154                   GERENCIA PYME 1154  Bogota
+1155GERENCIA PYME 1155                   GERENCIA PYME 1155  Bogota
+1156GERENCIA PYME 1156                   GERENCIA PYME 1156  Bogota
+1157GCIA EMPRESA 1157                    GCIA EMPRESA 1157   Bogota
+1158GERENCIA MEDIANA EMPRESA 1158        Gcia Med Emp 1158   Bogota
+1159GCIA EMPRESA 1159                    GCIA EMPRESA 1159   Bogota
+1160GERENCIA PYME 1160                   GERENCIA PYME 1160  Bogota
+1161GERENCIA PYME 1161                   GERENCIA PYME 1161  Bogota
+1162GCIA EMPRESA 1162                    GCIA EMPRESA 1162   Bogota
+1163GCIA CORPORAT 1163                   GCIA CORPORAT 1163  Bogota
+1164GERENCIA PYME 1164                   GERENCIA PYME 1164  Bogota
+1165GERENCIA PYME 1165                   GERENCIA PYME 1165  Bogota
+1166GCIA EMPRESA 1166                    GCIA EMPRESA 1166   Bogota
+1167GERENCIA PYME 1167                   GERENCIA PYME 1167  Bogota
+1168GCIA EMPRESA 1168                    GCIA EMPRESA 1168   Bogota
+1169GCIA EMPRESA 1169                    GCIA EMPRESA 1169   Bogota
+1170GERENCIA PYME 1170                   GERENCIA PYME 1170  Bogota
+1171GERENCIA MEDIANA EMPRESA 1171        Gcia Med Emp 1171   Bogota
+1172GERENCIA PYME 1172                   GERENCIA PYME 1172  Bogota
+1173GERENCIA PYME 1173                   GERENCIA PYME 1173  Bogota
+1174GERENCIA PYME 1174                   GERENCIA PYME 1174  Bogota
+1175GCIA EMPRESA 1175                    GCIA EMPRESA 1175   Bogota
+1176GCIA EMPRESA 1176                    GCIA EMPRESA 1176   Bogota
+1177GERENCIA MEDIANA EMPRESA 1177        Gcia Med Emp 1177   Bogota
+1178GERENCIA PYME 1178                   GERENCIA PYME 1178  Bogota
+1179GCIA EMPRESA 1179                    GCIA EMPRESA 1179   Barrancab
+1180GERENCIA PYME 1180                   GERENCIA PYME 1180  Bucaraman
+1181GERENCIA PYME 1181                   GERENCIA PYME 1181  Bucaraman
+1182GERENCIA PYME 1182                   GERENCIA PYME 1182  Bucaraman
+1183GERENCIA PYME 1183                   GERENCIA PYME 1183  Cucuta
+1184GCIA EMPRESA 1184                    GCIA EMPRESA 1184   Villavice
+1185GCIA EMPRESA 1185                    GCIA EMPRESA 1185   Neiva
+1186GCIA EMPRESA 1186                    GCIA EMPRESA 1186   Tunja
+1187GERENCIA PYME 1187                   GERENCIA PYME 1187  Villavice
+1188GERENCIA PYME 1188                   GERENCIA PYME 1188  Yopal
+1189GCIA EMPRESA 1189                    GCIA EMPRESA 1189   Barranqui
+1190GCIA EMPRESA 1190                    GCIA EMPRESA 1190   Barranqui
+1191GERENCIA PYME 1191                   GERENCIA PYME 1191  Barranqui
+1192GCIA EMPRESA 1192                    GCIA EMPRESA 1192   Monteria
+1193GERENCIA PYME 1193                   GERENCIA PYME 1193  Santa Mar
+1194GERENCIA PYME 1194                   GERENCIA PYME 1194  Sincelejo
+1195GERENCIA BANCA PYME 51               Gcia Bca Pyme 51    Medellin
+1196GERENCIA PYME 1196                   GERENCIA PYME 1196  V/dupar
+1197GERENCIA PYME 1197                   GERENCIA PYME 1197  Armenia
+1198GERENCIA PYME 1198                   GERENCIA PYME 1198  Manizales
+1199GERENCIA PYME 1199                   GERENCIA PYME 1199  Medellin
+1200GCIA EMPRESA 1200                    GCIA EMPRESA 1200   Medellin
+1201GERENCIA PYME 1201                   GERENCIA PYME 1201  Medellin
+1202GCIA EMPRESA 1202                    GCIA EMPRESA 1202   Medellin
+1203GCIA EMPRESA 1203                    GCIA EMPRESA 1203   Medellin
+1204GERENCIA PYME 1204                   GERENCIA PYME 1204  Medellin
+1205GERENCIA PYME 1205                   GERENCIA PYME 1205  Medellin
+1206GCIA EMPRESA 1206                    GCIA EMPRESA 1206   Medellin
+1207GCIA EMPRESA 1207                    GCIA EMPRESA 1207   Medellin
+1208GCIA EMPRESA 1208                    GCIA EMPRESA 1208   Pereira
+1209GCIA EMPRESA 1209                    GCIA EMPRESA 1209   Cali
+1210GERENCIA PYME 1210                   GERENCIA PYME 1210  Cali
+1211GERENCIA PYME 1211                   GERENCIA PYME 1211  Cali
+1212GERENCIA PYME 1212                   GERENCIA PYME 1212  Cali
+1213GCIA EMPRESA 1213                    GCIA EMPRESA 1213   Cali
+1214GERENCIA PYME 1214                   GERENCIA PYME 1214  Cali
+1215GERENCIA PYME 1215                   GERENCIA PYME 1215  Cali
+1216GCIA EMPRESA 1216                    GCIA EMPRESA 1216   Cali
+1217GCIA EMPRESA 1217                    GCIA EMPRESA 1217   Pasto
+1227GCIA EMPRESA 1227                    GCIA EMPRESA 1227   MANIZALES
+1228GERENCIA BANCA PYME 135              Gcia Banca Pyme 135 BUGA
+1229GERENCIA PYME 1229                   GERENCIA PYME 1229  Cota
+1231GERENCIA PYME 1231                   GERENCIA PYME 1231  POPAYAN
+1234GERENCIA PYME 1234                   GERENCIA PYME 1234  Cali
+1243CENTRO DE EXPERIENCIA BARRANQUILLA   Ctro Expcia Bquilla Bquilla
+1254GCIA NORM EMP ANTIOQ                 Gcia Norm Emp AntioqMedellin
+1255GCIA NORM EMP OCCID                  Gcia Norm Emp Occid Cali
+1256GCIA NORM EMP CENTRORI               Gcia Norm Emp CenoriBucaraman
+1257GCIA NORM EMP COSTA                  Gcia Norm Emp Costa Barranqui
+1258GCIA DE MORMALIZACION EMPRESARIAL 3  Gcia Norm Emp 3     Bogota
+1259GERENCIA PREFERENTE 1259             G. Preferente 1259  Bogota
+1260GERENCIA PREFERENTE 1260             G. Preferente 1260  Bogota
+1261GERENCIA PREFERENTE 1261             G. Preferente 1261  Bogota
+1262GERENCIA PREFERENTE 1262             G. Preferente 1262  Bogota
+1263GERENCIA PREFERENTE 1263             G. Preferente 1263  Bogota
+1264GERENCIA PREFERENTE 1264             G. Preferente 1264  Bogota
+1265GERENCIA PREFERENTE 1265             G. Preferente 1265  Bogota
+1266GERENCIA PREFERENTE 1266             G. Preferente 1266  Bogota
+1267GERENCIA PREFERENTE 1267             G. Preferente 1267  Bogota
+1268GERENCIA PREFERENTE 1268             G. Preferente 1268  Bogota
+1269GERENCIA PREFERENTE 1269             G. Preferente 1269  Bogota
+1270GERENCIA PREFERENTE 1270             G. Preferente 1270  Bogota
+1271GERENCIA PREFERENTE 1271             G. Preferente 1271  Bogota
+1272GERENCIA PREFERENTE 1272             G. Preferente 1272  Bogota
+1273GERENCIA PREFERENTE 1273             G. Preferente 1273  Bogota
+1274GERENCIA PREFERENTE 1274             G. Preferente 1274  Bogota
+1275GERENCIA PREFERENTE 1275             G. Preferente 1275  Bogota
+1276GERENCIA PREFERENTE 1276             G. Preferente 1276  Bogota
+1277GERENCIA PREFERENTE 1277             G. Preferente 1277  Bogota
+1278GERENCIA PREFERENTE 1278             G. Preferente 1278  Bogota
+1279GERENCIA PREFERENTE 1279             G. Preferente 1279  Bogota
+1280GERENCIA PREFERENTE 1280             G. Preferente 1280  Bogota
+1281GERENCIA PREFERENTE 1281             G. Preferente 1281  Bogota
+1282GERENCIA PREFERENTE 1282             G. Preferente 1282  Bogota
+1283GERENCIA PREFERENTE 1283             G. Preferente 1283  Bogota
+1284GERENCIA PREFERENTE 1284             G. Preferente 1284  Bogota
+1285GERENCIA PREFERENTE 1285             G. Preferente 1285  Bogota
+1286GERENCIA PREFERENTE 1286             G. Preferente 1286  Bogota
+1288GERENCIA PYME 1288                   GERENCIA PYME 1288  Cali
+1289GERENCIA PYME 1289                   GERENCIA PYME 1289  Bogota
+1290GERENCIA PYME 1290                   GERENCIA PYME 1290  Bogota
+1291GERENCIA PYME 1291                   GERENCIA PYME 1291  Bogota
+1292GERENCIA PYME 1292                   GERENCIA PYME 1292  Bogota
+1293GERENCIA PYME 1293                   GERENCIA PYME 1293  Bogota
+1294GERENCIA PYME 1294                   GERENCIA PYME 1294  Bogota
+1295GERENCIA PYME 1295                   GERENCIA PYME 1295  Bogota
+1296GERENCIA PYME 1.0 1296               Gcia Pyme 1.0 1296  Bogota
+1297GERENCIA PYME 1297                   GERENCIA PYME 1297  Bogota
+1298GERENCIA PYME 1298                   GERENCIA PYME 1298  Bogota
+1299GERENCIA PYME 1299                   GERENCIA PYME 1299  Bogota
+1300MICROFINANZAS ORIENTE V              Microfi Oriente V   Bucaramanga
+1301GCIA EMPRESA 1301                    GCIA EMPRESA 1301   Bogota
+1307GERENCIA PREMIUM PYME 23             Gcia Premi Pyme 23  Bogota
+1309GCIA CORPORAT 1309                   GCIA CORPORAT 1309  Bogota
+1310GCIA EMPRESA 1310                    GCIA EMPRESA 1310   Bogota
+1315GERENCIA BANCA PYME 54               Gcia Banca Pyme 54  Cali
+1316GERENCIA PYME 1.0 1316               Gcia Pyme 1.0 1316  Bogota
+1317GERENCIA PYME 1317                   GERENCIA PYME 1317  Bogota
+1318GERENCIA PYME 1318                   GERENCIA PYME 1318  Bogota
+1319GERENCIA PYME 1319                   GERENCIA PYME 1319  Bogota
+1320GERENCIA PYME 1320                   GERENCIA PYME 1320  Bogota
+1321GERENCIA PYME 1321                   GERENCIA PYME 1321  Bogota
+1322GERENCIA PYME 1322                   GERENCIA PYME 1322  Bogota
+1323GERENCIA PYME 1323                   GERENCIA PYME 1323  Bogota
+1324GERENCIA PYME 1324                   GERENCIA PYME 1324  Bogota
+1325GERENCIA PYME 1325                   GERENCIA PYME 1325  Bogota
+1326GERENCIA PYME 1326                   GERENCIA PYME 1326  Bogota
+1327GERENCIA PYME 1327                   GERENCIA PYME 1327  Bogota
+1328GERENCIA PYME 1328                   GERENCIA PYME 1328  Bogota
+1329GERENCIA PYME 1.0 1329               Gcia Pyme 1.0 1329  Bogota
+1330CR. VENCIDA NORORIENTE               Cr.Vencida Nororien Bmanga
+1331CR. VENCIDA CALI                     Cr.Vencida Cali     Cali
+1332CR. VENCIDA MEDELLIN                 Cr.Vencida Medellin Mdllin
+1333MICROFINANZAS BOGOTA SUR             Microfin. Bta Sur   Bogota
+1339GCIA EMPRESA 1339                    GCIA EMPRESA 1339   Bmanga
+1340GERENCIA PYME 1340                   GERENCIA PYME 1340  Medellin
+1341GERENCIA BANCA PYME 48               Gcia Bca Pyme 48    Cali
+1342GERENCIA PREFERENTE 1342             G. Preferente 1342  Bmanga
+1343GERENCIA PREFERENTE 1343             G. Preferente 1343  Bmanga
+1344GERENCIA PREFERENTE 1344             G. Preferente 1344  Bmanga
+1345GERENCIA PREFERENTE 1345             G. Preferente 1345  Bmanga
+1346GERENCIA PREFERENTE 1346             G. Preferente 1346  Bmanga
+1347GERENCIA PREFERENTE 1347             G. Preferente 1347  Bmanga
+1348GERENCIA PREFERENTE 1348             G. Preferente 1348  Bmanga
+1349GERENCIA PREFERENTE 1349             G. Preferente 1349  Bmanga
+1350GERENCIA PREFERENTE 1350             G. Preferente 1350  Bquilla
+1351GERENCIA PREFERENTE 1351             G. Preferente 1351  Bquilla
+1352GERENCIA PREFERENTE 1352             G. Preferente 1352  Bquilla
+1353GERENCIA PREFERENTE 1353             G. Preferente 1353  Bquilla
+1354GERENCIA PREFERENTE 1354             G. Preferente 1354  Bquilla
+1355GERENCIA PREFERENTE 1355             G. Preferente 1355  Bquilla
+1356GERENCIA PREFERENTE 1356             G. Preferente 1356  Bquilla
+1357GERENCIA PREFERENTE 1357             G. Preferente 1357  Bquilla
+1365GERENCIA PYME 1365                   GERENCIA PYME 1365  Cali
+1368GERENCIA PYME 1368                   GERENCIA PYME 1368  Cali
+1369GERENCIA BANCA PYME 56               Gcia Bca Pyme 56    Bmanga
+1373GERENCIA PYME 1373                   GERENCIA PYME 1373  Bmanga
+1375GERENCIA PYME 1375                   GERENCIA PYME 1375  Bquilla
+1383GER EMPRESARIAL 1383                 Ger Empresarial 1083Bogota
+1385GCIA EMPRESA 1385                    GCIA EMPRESA 1385   Barranquilla
+1386GCIA CCIA INSIGNE 1                  Ger Ccial Insigne 1 Bogota
+1387GCIA CCIA INSIGNE 2                  Ger Ccial Insigne 2 Medellin
+1388GCIA CCIA INSIGNE 3                  Ger Ccial Insigne 3 Bogota
+1389GCIA CCIA INSIGNE 4                  Ger Ccial Insigne 4 Bogota
+1395GCIA CORPORAT 1395                   GCIA CORPORAT 1395  S/Marta
+1403GERENCIA BANCA SOCIAL BOGOTA SUR     Gcia Bca Soc Bta SurBogota
+1404GERENCIA BANCA PYME 45               Gcia Bca Pyme 45    Cali
+1409GCIA CORPORAT 1409                   GCIA CORPORAT 1409  B/manga
+1411GCIA OFICIAL 1411                    GCIA OFICIAL 1411   Medellin
+1413GERENCIA EMPRESARIAL BARRANQUILLA MB Gcia Empres Bqll Mb Bquilla
+1418GERENCIA PYME 1418                   GERENCIA PYME 1418  Bogota
+1419GERENCIA EMPRESARIAL CALI MB         Gcia Empres Cali Mb Cali
+1422MICROFINANZAS CENTRAL IV             Microfin Central IV La Dorada
+1423MICROFINANZAS BOGOTA NORTE           Microf. Bta Norte   Bogota
+1424GCIA CORPORAT 1424                   GCIA CORPORAT 1424  Bogota
+1429MICROFINANZAS ORIENTE I              Microf. Oriente I   Bucaramanga
+1430MICROFINANZAS RIONEGRO ANTIOQUIA VI  Microf.Rionegro.A.VIRIONEGRO
+1436GER CORPORATIVO 1436                 Ger Corporativo 1436Manizales
+1437GER CORPORATIVO 1437                 Ger Corporativo 1437Bquilla
+1438GER PYME 1438                        Ger Pyme 1438       Bquilla
+1439GCIA CORPORAT 1439                   GCIA CORPORAT 1439  Bogota
+1440GERENCIA BANCA SOCIAL OCCIDENTE      Gcia Banca Soc OccidCali
+1443MICROFINANZAS BOGOTA SUR ORIENTE     microf bta sur orienBOGOTA
+1453MICROFINANZAS ORIENTE II             Microf. Oriente II  Bucaramanga
+1457MICROFINANZAS ORIENTE III            Microf. Oriente III Bucaramanga
+1460MICROFINANZAS OCCIDENTE I            Microf. Occidente I Cali
+1461MICROFINANZAS CENTRAL I              Microf. Central I   Bogota
+1472GER EMPRESARIAL 1472                 Ger Empresarial 1472Bogota
+1473GER EMPRESARIAL 1473                 Ger Empresarial 1473Ibague
+1474GER EMPRESARIAL 1474                 Ger Empresarial 1474Armenia
+1475GER EMPRESARIAL 1475                 Ger Empresarial 1475Cartagena
+1476GER EMPRESARIAL 1476                 Ger Empresarial 1476Pereira
+1477GER EMPRESARIAL 1477                 Ger Empresarial 1477Bogota
+1478MICROFINANZAS CENTRAL II             Microf. Central II  Bogota
+1481MICROFINANZAS CENTRAL III            Microf. Central III Bogota
+1482GCIA EMPRESA 1482                    GCIA EMPRESA 1482   Bogota
+1483GCIA OFICIAL 1483                    GCIA OFICIAL 1483   Bogota
+1489UNIDAD DE MICROFINANZAS ESPINAL      Unid Microf Espinal Espinal
+1491MICROFINANZAS COSTA                  Microf. Costa       Barranquilla
+1492MICROFINANZAS COSTA IX BOSCONIA      Microf Costa IX BoscBosconia
+1493MICROFINANZAS ANTIOQUIA I            Microfin.Antioq.I   Medellin
+1494UNIDAD MICROF SANTANDER DE QUILICHAO Unid Microf Std QuilStder Quili
+1495UNIDAD MICROFINANZAS BELLO           Unid Microf Bello   Bello
+1496UNIDAD MICROFINANZAS ZIPAQUIRA       Unid Microf ZipaquirZipaquira
+1497UNIDAD MICROFINANZAS FLORENCIA       Unid Microf FlorenciFlorencia
+1498UNIDAD DE MICROFINANZAS PALMIRA      Unid Microf Palmira Palmira
+1499GERENCIA BANCA PYME 44               Gcia Bca Pyme 44    Cali
+1500GERENCIA BANCA PYME 43               Gcia Banca Pyme 43  Medellin
+1501GERENCIA BANCA PYME 69               Gcia Bca Pyme 69    Villavic
+1502GERENCIA PYME 1502                   GERENCIA PYME 1502  Armenia
+1503GERENCIA BANCA PYME 41               Gcia Banca Pyme 41  Medellin
+1505GERENCIA BANCA SOCIAL EJE CAFETERO   Gcia Bca Soc Eje CafPereira
+1506GERENCIA BANCA PYME 63               Gcia Banca Pyme 63  Manizales
+1507GERENCIA BANCA PYME 64               Gcia Banca Pyme 64  Pereira
+1509GERENCIA PYME 1509                   GERENCIA PYME 1509  Medellin
+1515GERENCIA PYME 1515                   GERENCIA PYME 1515  Pereira
+1517GERENCIA PYME 1517                   GERENCIA PYME 1517  Bogota
+1521GERENCIA BANCA PYME 66               Gcia Banca Pyme 66  Ibague
+1522GCIA OFICIAL 1522                    GCIA OFICIAL 1522   Ibague
+1527GERENCIA PYME 1527                   GERENCIA PYME 1527  Medellin
+1533GCIA OFICIAL 1533                    GCIA OFICIAL 1533   Vcencio
+1536GERENCIA BANCA PYME 2                Gcia Banca Pyme 2   Bogota
+1537GER PYME 1537                        Gcia Pyme 1537      Bquilla
+1547GERENCIA PYME 1547                   GERENCIA PYME 1547  Bogota
+1549MICROFINANZAS ANTIOQUIA II           Microfin.Antioq.II  Medellin
+1551GERENCIA BANCA PYME 13               Gcia Banca Pyme 13  Bogota
+1555GERENTE PREMIUM 1                    Gerente Premium 1   Bogota
+1557GERENCIA PYME 1557                   GERENCIA PYME 1557  Medellin
+1558GERENCIA BANCA PYME 4                Gcia Banca Pyme 4   Bogota
+1559GERENTE PREMIUM 2                    Gerente Premium 2   Bogota
+1561GERENTE PREMIUM 3                    Gerente Premium 3   Bogota
+1563GERENTE PREMIUM 4                    Gerente Premium 4   Bogota
+1567GERENTE PREMIUM 24                   Gerente Premium 24  Bogota
+1569GERENCIA PYME 1569                   GERENCIA PYME 1569  Bogota
+1570MICROFINANZAS ANTIOQUIA III          Microfin.Antioq.III Medellin
+1573GCIA CORPORAT 1573                   GCIA CORPORAT 1573  Medellin
+1577GERENCIA BANCA PYME 37               Gcia Banca Pyme 37  Medellin
+1579GERENTE PREMIUM 15                   Gerente Premium 15  Bogota
+1581MICROFINANZAS SABANA                 Microf. Sabana      Bogota
+1590GERENCIA PYME 1590                   GERENCIA PYME 1590  Bogota
+1591GERENCIA PYME 1591                   GERENCIA PYME 1591  Bogota
+1594GERENCIA PYME 1594                   GERENCIA PYME 1594  Bogota
+1595GERENCIA PREFERENTE 1595             G. Preferente 1595  Cali
+1596GERENCIA PREFERENTE 1596             G. Preferente 1596  Cali
+1597GERENCIA PREFERENTE 1597             G. Preferente 1597  Cali
+1598GERENCIA PREFERENTE 1598             G. Preferente 1598  Cali
+1599GERENCIA PREFERENTE 1599             G. Preferente 1599  Cali
+1600GERENCIA PREFERENTE 1600             G. Preferente 1600  Cali
+1601GERENCIA PREFERENTE 1601             G. Preferente 1601  Cali
+1602GERENCIA PREFERENTE 1602             G. Preferente 1602  Cali
+1603GERENCIA PREFERENTE 1603             G. Preferente 1603  Cali
+1604GERENCIA PREFERENTE 1604             G. Preferente 1604  Cali
+1605GERENCIA PREFERENTE 1605             G. Preferente 1605  Cali
+1606GERENCIA PREFERENTE 1606             G. Preferente 1606  Cali
+1607GERENCIA PREFERENTE 1607             G. Preferente 1607  Cali
+1608GERENCIA PREFERENTE 1608             G. Preferente 1608  Cali
+1609GERENCIA PREFERENTE 1609             G. Preferente 1609  Medellin
+1610GERENCIA PREFERENTE 1610             G. Preferente 1610  Medellin
+1611GERENCIA PREFERENTE 1611             G. Preferente 1611  Medellin
+1612GERENCIA PREFERENTE 1612             G. Preferente 1612  Medellin
+1613GERENCIA PREFERENTE 1613             G. Preferente 1613  Medellin
+1614GERENCIA PREFERENTE 1614             G. Preferente 1614  Medellin
+1615GERENCIA PREFERENTE 1615             G. Preferente 1615  Medellin
+1616GERENCIA PREFERENTE 1616             G. Preferente 1616  Medellin
+1617GERENCIA PREFERENTE 1617             G. Preferente 1617  Medellin
+1618GERENCIA PREFERENTE 1618             G. Preferente 1618  Medellin
+1619GERENCIA PREFERENTE 1619             G. Preferente 1619  Medellin
+1620GERENCIA PREFERENTE 1620             G. Preferente 1620  Medellin
+1621GERENCIA PREFERENTE 1621             G. Preferente 1621  Medellin
+1622GERENCIA PREFERENTE 1622             G. Preferente 1622  Medellin
+1626GERENTE PREMIUM 16                   Gerente Premium 16  Bogota
+1635GERENCIA BANCA PYME 7                Gcia Banca Pyme 7   Bogota
+1636GER PYME 1636                        Ger Pyme 1636       Zipaquira
+1637GER PYME 1637                        Ger Pyme 1637       Pereira
+1638GER PYME 1638                        Ger Pyme 1638       Cota
+1639GER PYME 1639                        Ger Pyme 1639       Zipaquira
+1640GER PYME 1640                        Ger Pyme 1640       Palmira
+1641GERENCIA BANCA PYME 32               Gcia Banca Pyme 32  Bogota
+1642GERENCIA PYME 1642                   GERENCIA PYME 1642  Bogota
+1643GER PYME 1643                        Ger Pyme 1643       Duitama
+1644GER PYME 1644                        Ger Pyme 1644       Mosquera
+1645GER PYME 1645                        Ger Pyme 1645       Medellin
+1646GER PYME 1646                        Ger Pyme 1646       Cartagena
+1647GERENCIA PREMIUM PYME 25             Gcia Premi Pyme 25  Bogota
+1649GER EMPRESARIAL 1649                 Ger Empresarial 1649Vcencio
+1650GERENCIA BANCA PYME 8                Gcia Banca Pyme 8   Bogota
+1651GER PYME 1651                        Ger Pyme 1651       Ibague
+1652GER PYME 1652                        Ger Pyme 1652       Sincelejo
+1653GER PYME 1653                        Ger Pyme 1653       Yopal
+1654GER PYME 1654                        Ger Pyme 1654       Arauca
+1657MICROFINANZAS COSTA II               Microfin.Costa II   Barranquilla
+1658GERENCIA BANCA PYME 34               Gcia Banca Pyme 34  Bogota
+1661GERENCIA PYME 1661                   GERENCIA PYME 1661  Bogota
+1662MICROFINANZAS COSTA III              Microfin.Costa III  Barranquilla
+1664GERENCIA BANCA PYME 72               Gcia Banca Pyme 72  Medellin
+1673GERENTE PREMIUM 22                   Gerente Premium 22  Bogota
+1675MICROFINANZAS OCCIDENTE III          Microf. OccidenteIIICali
+1681GERENCIA BANCA PYME 16               Gcia Banca Pyme 16  Bogota
+1682GERENCIA BANCA PYME 17               Gcia Banca Pyme 17  Bogota
+1683GERENCIA BANCA PYME 18               Gcia Banca Pyme 18  Bogota
+1684GERENCIA BANCA PYME 19               Gcia Banca Pyme 19  Bogota
+1685GERENCIA PYME 1685                   GERENCIA PYME 1685  Bogota
+1686GERENCIA BANCA PYME 21               Gcia Banca Pyme 21  Bogota
+1687GERENCIA BANCA PYME 22               Gcia Banca Pyme 22  Bogota
+1688GERENCIA BANCA PYME 23               Gcia Banca Pyme 23  Bogota
+1689GERENCIA PYME 1689                   GERENCIA PYME 1689  Bogota
+1690GERENCIA PYME 1690                   GERENCIA PYME 1690  Bogota
+1691GERENCIA BANCA PYME 9                Gcia Banca Pyme 9   Bogota
+1695MICROF.BTA CENTRO                    Microf.Bta.Centro   Bogota
+1696GERENCIA BANCA SOCIAL NTE SANTANDERESGcia Bca Soc Nte StdBmanga
+1698GCIA EMPRESA 1698                    GCIA EMPRESA 1698   Bogota
+1708GERENCIA BANCA PYME 26               Gcia Banca Pyme 26  Bogota
+1709GCIA CORPORAT 1709                   GCIA CORPORAT 1709  Bogota
+1710GERENCIA PYME 1710                   GERENCIA PYME 1710  Bogota
+1711GCIA EMPRESA 1711                    GCIA EMPRESA 1711   Medellin
+1712GCIA EMPRESA 1712                    GCIA EMPRESA 1712   Medellin
+1713EXT DE CAJA MUNICIPIO DE IPIALES     Ext Caja Mpio IpialeIpiales
+1714GCIA CORPORAT 1714                   GCIA CORPORAT 1714  Medellin
+1717GCIA CORPORAT 1717                   GCIA CORPORAT 1717  Medellin
+1718GCIA CORPORAT 1718                   GCIA CORPORAT 1718  Medellin
+1719GCIA EMPRESA 1719                    GCIA EMPRESA 1719   Medellin
+1720GER CORPORATIVO 1720                 Ger Corporativo 1720Bogota
+1721GCIA CORPORAT 1721                   GCIA CORPORAT 1721  Bogota
+1722GCIA CORPORAT 1722                   GCIA CORPORAT 1722  Bogota
+1723GER CORPORATIVO 1723                 Ger Corporativo 1723Bogota
+1724GER EMPRESARIAL 1724                 Ger Empresarial 1724Bogota
+1725GCIA CORPORAT 1725                   GCIA CORPORAT 1725  Bogota
+1726GCIA CORPORAT 1726                   GCIA CORPORAT 1726  Bogota
+1727GER EMPRESARIAL 1727                 Ger Empresarial 1727Bogota
+1728GER EMPRESARIAL 1728                 Ger Empresarial 1728Bogota
+1729GCIA EMPRESA 1729                    GCIA EMPRESA 1729   Bogota
+1730GCIA EMPRESA 1730                    GCIA EMPRESA 1730   Bogota
+1731GCIA CORPORAT 1731                   GCIA CORPORAT 1731  Bogota
+1732GCIA CORPORAT 1732                   GCIA CORPORAT 1732  Bogota
+1733GCIA EMPRESA 1733                    GCIA EMPRESA 1733   Bogota
+1734GER EMPRESARIAL 1734                 Ger Empresarial 1734Bogota
+1735GCIA CORPORAT 1735                   GCIA CORPORAT 1735  Bogota
+1736GCIA EMPRESA 1736                    GCIA EMPRESA 1736   Bogota
+1737GCIA EMPRESA 1737                    GCIA EMPRESA 1737   Bogota
+1738GCIA CORPORAT 1738                   GCIA CORPORAT 1738  Bquilla
+1739GCIA EMPRESA 1739                    GCIA EMPRESA 1739   Bquilla
+1740GCIA EMPRESA 1740                    GCIA EMPRESA 1740   Bquilla
+1741GER PYME 1741                        Ger Pyme 1741       Cali
+1742GCIA CORPORAT 1742                   GCIA CORPORAT 1742  Cali
+1743GCIA EMPRESA 1743                    GCIA EMPRESA 1743   Cali
+1744GCIA EMPRESA 1744                    GCIA EMPRESA 1744   Cali
+1745GERENTE PREMIUM 17                   Gerente Premium 17  Bogota
+1746GER CORPORATIVO 1746                 Ger Corporativo 1746Bmanga
+1747GCIA CORPORAT 1747                   GCIA CORPORAT 1747  Bmanga
+1748GERENCIA PYME 1748                   GERENCIA PYME 1748  Bogota
+1749GCIA OFICIAL 1749                    GCIA OFICIAL 1749   Bogota
+1751GCIA EMPRESA 1751                    GCIA EMPRESA 1751   Medellin
+1753GER CORPORATIVO 1753                 Ger Corporativo 1753Medellin
+1754GCIA NORM CORP ANTIOQ                Gcia Norm Corp AntioMedellin
+1755GCIA NORM CORP CENTRORI              Gcia Norm Corp CentrBmanga
+1756GCIA NORM CORP OCCID                 Gcia Norm Corp OccidCali
+1758GER OFICIAL 1758                     Ger Oficial 1758    Bogota
+1759GCIA NORM EMP BTA 1                  Gcia Norm Emp Bta 1 Bogota
+1761GCIA NORM CORP BTA                   Gcia Norm Corp Bta  Bogota
+1762GER CORPORATIVO 1762                 Ger Corporativo 1762Bogota
+1763GERENCIA PYME 1763                   GERENCIA PYME 1763  Bogota
+1764GCIA CORPORAT 1764                   GCIA CORPORAT 1764  Cali
+1765GCIA OFICIAL 1765                    GCIA OFICIAL 1765   Cali
+1766GCIA EMPRESA 1766                    GCIA EMPRESA 1766   Cali
+1767GER OFICIAL 1767                     Ger Oficial 1767    Rionegro
+1768GER OFICIAL 1768                     Ger Oficial 1768    Cota
+1769GER OFICIAL 1769                     Ger Oficial 1769    Pasto
+1770DIR CEOI OCCIDENTE                   Dir Ceoi Occidente  Cali
+1774GERENCIA PYME 1774                   GERENCIA PYME 1774  Bogota
+1776GCIA EMPRESA 1776                    GCIA EMPRESA 1776   Bogota
+1779GCIA CORPORAT 1779                   GCIA CORPORAT 1779  Medellin
+1780GERENCIA PYME 12                     Gcia Pyme 12        Bogota
+1781MICROFINANZAS ANTIOQUIA IV           Microfin.Antioq.IV  Medellin
+1782GCIA CORPORAT 1782                   GCIA CORPORAT 1782  Bogota
+1783GCIA CORPORAT 1783                   GCIA CORPORAT 1783  Bogota
+1784GCIA CORPORAT 1784                   GCIA CORPORAT 1784  Bogota
+1785GER INSTITUC 1785                    Ger Instituc 1785   Bogota
+1786GCIA CORPORAT 1786                   GCIA CORPORAT 1786  Cali
+1787GER CORPORATIVO 1787                 Ger Corporativo 1787Bogota
+1789DIR CEOI ANTIOQUIA                   Dir Ceoi Antioquia  Medellin
+1790GERENCIA BANCA PYME 27               Gcia Banca Pyme 27  Bogota
+1797GERENCIA PYME 1797                   GERENCIA PYME 1797  Bquilla
+1805GERENCIA BANCA PYME 28               Gcia Bca Pyme 28    Bogota
+1806GERENTE BANCA SOCIAL BOGOTA LLANOS   Gte Bca Soc Bta LLanBogota
+1809GERENCIA BANCA PYME 29               Gcia Bca Pyme 29    Bogota
+1813GERENTE PREMIUM 18                   Gerente Premium 18  Bogota
+1814MICROFINANZAS ORIENTE IV             Microfi.Oriente IV  BMANGA
+1825MICROFINANZAS OCCIDENTE III          Microf Occidente IIICali
+1826MICROFINANZAS COSTA V                Microf Costa V      BQUILLA    a
+1827MICROFINANZAS COSTA VI               Microf Costa VI     BQUILLA    a
+1830MICROFINANZAS COSTA IV               Microfin Costa IV   BaQUILLA   a
+1831GCIA CORPORAT 1831                   GCIA CORPORAT 1831  Bquilla
+1832GCIA EMPRESA 1832                    GCIA EMPRESA 1832   Cali
+1838GCIA OFICIAL 1838                    GCIA OFICIAL 1838   Sincelejo
+1839GCIA OFICIAL 1839                    GCIA OFICIAL 1839   Sibe Cota
+1840GCIA OFICIAL 1840                    GCIA OFICIAL 1840   Duitama
+1841GCIA OFICIAL 1841                    GCIA OFICIAL 1841   Yopal
+1842GERENCIA OFICIAL DE RED 1842         G. Oficial Red 1842 Riohacha
+1870GERENCIA BANCA PYME 60               Gcia Bca Pyme 60    Bquilla
+1874GERENCIA PYME 1874                   GERENCIA PYME 1874  Bquilla
+1875GERENCIA PYME 1875                   GERENCIA PYME 1875  Bquilla
+1876GERENCIA PYME 1876                   GERENCIA PYME 1876  Bquilla
+1878GERENCIA PYME 1878                   GERENCIA PYME 1878  Bmanga
+1879GERENCIA PYME 1879                   GERENCIA PYME 1879  Bmanga
+1880GERENCIA PYME 1880                   GERENCIA PYME 1880  Cali
+1881GERENCIA PYME 1881                   GERENCIA PYME 1881  Cali
+1882GERENCIA PYME 1882                   GERENCIA PYME 1882  Cali
+1883GERENCIA PYME 1883                   GERENCIA PYME 1883  Cali
+1884GERENCIA PYME 1884                   GERENCIA PYME 1884  Cali
+1885GERENCIA PYME 1885                   GERENCIA PYME 1885  Medellin
+1886GERENCIA PYME 1886                   GERENCIA PYME 1886  Medellin
+1887GERENCIA PYME 1887                   GERENCIA PYME 1887  Medellin
+1888GERENCIA PYME 1888                   GERENCIA PYME 1888  Medellin
+1889GERENCIA PYME 1889                   GERENCIA PYME 1889  Medellin
+1899MICROFINANZAS ANTIOQUIA V            Microf  Antioq  V   Medellin
+1901GERENCIA BANCA PYME 73               Gcia Banca Pyme 73  Medellin
+1903GERENCIA BANCA PYME 74               Gcia Banca Pyme 74  Medellin
+1909GERENCIA PYME 1909                   GERENCIA PYME 1909  Bogota
+1917GERENCIA BANCA PYME 76               Gcia Bca Pyme 76    Bogota
+1918GERENCIA BANCA PYME 78               Gcia Bca Pyme 78    Bogota
+1919GERENCIA BANCA PYME 77               Gcia Bca Pyme 77    Bogota
+1922GERENCIA BANCA PYME 79               Gcia Bca Pyme 79    Bogota
+1923GERENCIA BANCA PYME 80               Gcia Bca Pyme 80    Bogota
+1925GERENCIA PYME 1925                   GERENCIA PYME 1925  Bogota
+1926GERENCIA PYME 1926                   GERENCIA PYME 1926  Bogota
+1927GERENCIA BANCA PYME 83               Gcia Bca Pyme 83    Bogota
+1928GERENCIA BANCA PYME 84               Gcia Bca Pyme 84    Cali
+1929GERENCIA PYME 1929                   GERENCIA PYME 1929  Cali
+1930GERENCIA PYME 1930                   GERENCIA PYME 1930  Bquilla
+1931GERENCIA BANCA PYME 86               Gcia Bca Pyme 86    Cali
+1932GERENCIA PYME 1932                   GERENCIA PYME 1932  Cali
+1933GERENCIA PYME 1933                   GERENCIA PYME 1933  Cali
+1935GERENCIA BANCA PYME 89               Gcia Bca Pyme 89    Cali
+1936GERENCIA BANCA PYME 90               Gcia Bca Pyme 90    Bmanga
+1938GERENCIA PYME 1938                   GERENCIA PYME 1938  Bmanga
+1945GERENCIA BANCA PYME 92               Gcia Bca Pyme 92    Duitama
+1947GERENCIA PYME 1947                   GERENCIA PYME 1947  Tunja
+1950GERENCIA PYME 1950                   GERENCIA PYME 1950  Cucuta
+1952GERENCIA BANCA PYME 95               Gcia Bca Pyme 95    Bbermeja
+1953GERENCIA BANCA PYME 96               Gcia Bca Pyme 96    Bquilla
+1954GERENCIA PYME 1954                   GERENCIA PYME 1954  St Marta
+1955GERENCIA PYME 1955                   GERENCIA PYME 1955  Valledup
+1957GERENCIA BANCA PYME 99               Gcia Bca Pyme 99    Cartagen
+1962GERENCIA BANCA PYME 100              Gcia Bca Pyme 100   Monteria
+1963GERENCIA PYME 1963                   GERENCIA PYME 1963  Bogota
+1964GERENCIA BANCA PYME 102              Gcia Bca Pyme 102   Bogota
+1965GCIA P ADVISOR BOGOTA 1965           Gcia P Adv Bta 1965 BOGOTA
+1966GCIA P ADVISOR BOGOTA 1966           Gcia P Adv Bta 1966 BOGOTA
+1967GCIA P ADVISOR BOGOTA 1967           Gcia P Adv Bta 1967 BOGOTA
+1968GCIA P ADVISOR BOGOTA 1968           Gcia P Adv Bta 1968 BOGOTA
+1969GCIA P ADVISOR CALI 1969             Gcia P Adv Cal 1969 CALI
+1970GCIA P ADVISOR MEDELLIN 1970         Gcia P Adv Med 1970 MEDELLIN
+1971GCIA P ADVISOR BMANGA 1971           Gcia P Adv Bug 1971 BMANGA
+1972GCIA P ADVISOR BQUILLA 1972          Gcia P Adv Bql 1972 BQUILLA
+1973GCIA PREMIUM IBAGUE 1973             Gcia Premi Ibg 1973 IBAGUE
+1974GCIA PREMIUM VILLAVICENCIO 1974      Gcia Premi Vll 1974 VVICENCIO
+1975GCIA PREMIUM MONTERIA 1975           Gcia Premi Mtr 1975 MONTERIA
+1976GCIA PREMIUM CUCUTA 1976             Gcia Premi Cuc 1976 CUCUTA
+1988GER BCA SOC GRUP SAL                 gcia bca soc gr     BOGOTA
+1997GCIA PREMIUM 27                      gcia premium 27     MEDELLIN
+1998GERENTE PREMIUM 21                   Gerente Premium 21  Bogota
+2001GCIA PREMIUM 28                      gcia premium 28     MEDELLIN
+2002GCIA PREMIUM 29                      gcia premium 29     BOGOTA
+2003GCIA PREMIUM 30                      gcia premium 30     BOGOTA
+2004GCIA PREMIUM 31                      gcia premium 31     BOGOTA
+2005GCIA PREMIUM 32                      gcia premium 32     BQUILLA
+2006GCIA PREMIUM 33                      gcia premium 33     BUCARAM
+2007GCIA PREMIUM 34                      gcia premium 34     CALI
+2008GCIA PREMIUM 35                      gcia premium 35     CALI
+2009GCIA PYME 104 BOGOTA                 Gcia Pyme 104 Bta   BOGOTA
+2010GCIA BAN PYME 105                    gcia ban pyme 105   BOGOTA
+2011GCIA BAN PYME 106                    gcia ban pyme 106   BOGOTA
+2012GCIA BAN PYME 107                    gcia ban pyme 107   BOGOTA
+2013GERENCIA PYME 108                    Gcia Pyme 108       BOGOTA
+2014GERENCIA PYME 2014                   GERENCIA PYME 2014  BOGOTA
+2015GCIA EMPRESA 2015                    GCIA EMPRESA 2015   BOGOTA
+2016GERENCIA PYME 2016                   GERENCIA PYME 2016  BOGOTA
+2017GERENCIA PYME 2017                   GERENCIA PYME 2017  BQUILLA
+2018GERENCIA PYME 2018                   GERENCIA PYME 2018  MEDELLIN
+2019GERENCIA PYME 2019                   GERENCIA PYME 2019  MEDELLIN
+2020GCIA BAN PYME 115                    gcia ban pyme 115   CALI
+2021GERENCIA PYME 2021                   GERENCIA PYME 2021  BOGOTA
+2022GERENCIA PYME 2022                   GERENCIA PYME 2022  BOGOTA
+2023GERENCIA PYME 2023                   GERENCIA PYME 2023  BOGOTA
+2024GERENCIA PYME 2024                   GERENCIA PYME 2024  BOGOTA
+2025GCIA BAN PYME 120                    gcia ban pyme 120   BOGOTA
+2026GCIA BAN PYME 121                    gcia ban pyme 121   BOGOTA
+2027GERENCIA PYME 2027                   GERENCIA PYME 2027  BOGOTA
+2028GERENCIA PYME 2028                   GERENCIA PYME 2028  BOGOTA
+2029GERENCIA PYME 2029                   GERENCIA PYME 2029  CARTAGENA
+2030GCIA BAN PYME 125                    gcia ban pyme 125   SCL
+2031GERENCIA PYME 2031                   GERENCIA PYME 2031  MONTERIA
+2032GCIA BAN PYME 127                    gcia ban pyme 127   BUCARAM
+2033GERENCIA PYME 2033                   GERENCIA PYME 2033  BUCARAM
+2034GCIA BAN PYME 129                    gcia ban pyme 129   BUCARAM
+2035GERENCIA PYME 2035                   GERENCIA PYME 2035  BUCARAM
+2036GCIA OFICIAL 2036                    GCIA OFICIAL 2036   MEDELLIN
+2037GCIA OFICIAL 2037                    GCIA OFICIAL 2037   QUIBDO
+2038GCIA OFICIAL 2038                    GCIA OFICIAL 2038   PEREIRA
+2039GCIA OFICIAL 2039                    GCIA OFICIAL 2039   NEIVA
+2040GCIA OFICIAL 2040                    GCIA OFICIAL 2040   BOGOTA
+2041GCIA OFICIAL 2041                    GCIA OFICIAL 2041   CARTAGENA
+2042GCIA OFICIAL 2042                    GCIA OFICIAL 2042   MONTERIA
+2043GCIA OFICIAL 2043                    GCIA OFICIAL 2043   VALLDUPAR
+2044GCIA OFICIAL 2044                    GCIA OFICIAL 2044   ST.MARTA
+2045GCIA OFICIAL 2045                    GCIA OFICIAL 2045   BQUILLA
+2046GCIA OFICIAL 2046                    GCIA OFICIAL 2046   BUCARAM
+2047GCIA OFICIAL 2047                    GCIA OFICIAL 2047   BARRANC
+2048GCIA OFICIAL 2048                    GCIA OFICIAL 2048   TUNJA
+2049GCIA OFICIAL 2049                    GCIA OFICIAL 2049   CUCUTA
+2050GCIA OFICIAL 2050                    GCIA OFICIAL 2050   CALI
+2051GCIA OFICIAL 2051                    GCIA OFICIAL 2051   TUL
+2052GCIA OFICIAL 2052                    GCIA OFICIAL 2052   PASTO
+2053DIRECCION OFICIAL DE RED 1           Dir Oficial Red 1   BOGOTA
+2054DIR.BAN PYME I                       dir.ban pyme i      BOGOTA
+2055DIR.BAN PYME II                      dir.ban pyme ii     BOGOTA
+2056GERENCIA PYME 2056                   GERENCIA PYME 2056  BUCARAM
+2057GCIA PREMIUM 36                      gcia premium 36     BOGOTA
+2058GCIA PREMIUM 37                      gcia premium 37     BOGOTA
+2059GCIA OFICIAL 2059                    GCIA OFICIAL 2059   POPAYAN
+2061GERENCIA MERCADEO MICROEMPRESAS      Gcia Mcadeo MicroempBOGOTA
+2063DIRECCION BANCA PYME III             Dir Banca Pyme III  MEDELLIN
+2064DIRECCION BANCA PYME IV              Dir Banca Pyme IV   CALI
+2065DIRECCION BANCA PYME V               Dir Banca Pyme V    BOGOTA
+2066DIRECCION OFICIAL DE RED 2           Dir Oficial Red 2   BOGOTA
+2069GCIA OFICIAL 2069                    GCIA OFICIAL 2069   MEDELLIN
+2070GERENCIA OFICIAL DE RED 2070         G. Oficial Red 2070 V/CENCIO
+2071GCIA PREFERENTE 2071                 Gcia Preferente 2071PIEDECUES
+2072GCIA SAV ARMENIA 2072                Gcia Sav Arm 2072   QUIMBAYA
+2073GCIA SAV ARMENIA 2073                Gcia Sav Arm 2073   ARMENIA
+2074GCIA SAV MANIZALES 2074              Gcia Sav Mnz 2074   MANIZALES
+2075GCIA SAV MANIZALES 2075              Gcia Sav Mnz 2075   MANIZALES
+2076GCIA SAV PEREIRA 2076                Gcia Sav Per 2076   PEREIRA
+2077GCIA SAV PEREIRA 2077                Gcia Sav Per 2077   PEREIRA
+2078GCIA SAV PEREIRA 2078                Gcia Sav Per 2078   STA ROSA
+2079GCIA SAV URABA 2079                  Gcia Sav Uraba 2079 APARTADO
+2080GCIA SAV URABA 2080                  Gcia Sav Uraba 2080 APARTADO
+2081GCIA SAV VALLE DE SAN NICOLAS 2081   Gcia Sav Vl S N 2081CAR VIBOR
+2082GCIA SAV VALLE DE SAN NICOLAS 2082   Gcia Sav Vl S N 2082MARINILLA
+2083GCIA SAV VALLE DE SAN NICOLAS 2083   Gcia Sav Vl S N 2083RIONEGRO
+2084GCIA SAV VALLEDUPAR 2084             Gcia Sav Vdupar 2084VDUPAR
+2085GCIA SAV VALLEDUPAR 2085             Gcia Sav Vdupar 2085VDUPAR
+2086GCIA SAV MONTERIA 2086               Gcia Sav Monter 2086CERETE
+2087GCIA SAV MONTERIA 2087               Gcia Sav Monter 2087MONTERIA
+2088GCIA SAV SINCELEJO 2088              Gcia Sav Sincel 2088COROZAL
+2089GCIA SAV SINCELEJO 2089              Gcia Sav Sincel 2089SINCELEJO
+2090GCIA SAV CARTAGENA 2090              Gcia Sav Ctg 2090   CARTAGENA
+2091GCIA SAV CARTAGENA 2091              Gcia Sav Ctg 2091   CARTAGENA
+2092GCIA SAV CARTAGENA 2092              Gcia Sav Ctg 2092   CARTAGENA
+2093GCIA SAV SANTA MARTA 2093            Gcia Sav Sta Mt 2093CIENAGA
+2094GCIA SAV SANTA MARTA 2094            Gcia Sav Sta Mt 2094STA MARTA
+2095GCIA SAV SANTA MARTA 2095            Gcia Sav Sta Mt 2095STA MARTA
+2096GCIA SAV NEIVA 2096                  Gcia Sav Neiva 2096 NEIVA
+2097GCIA SAV NEIVA 2097                  Gcia Sav Neiva 2097 NEIVA
+2098GCIA SAV VILLAVICENCIO 2098          Gcia Sav Vicen 2098 VICENCIO
+2099GCIA SAV VILLAVICENCIO 2099          Gcia Sav Vicen 2099 RESTREPO
+2100GCIA SAV VILLAVICENCIO 2100          Gcia Sav Vil 2100   CUMARAL
+2101GCIA SAV FLORENCIA 2101              Gcia Sav Flo 2101   FLORENCIA
+2102GCIA SAV YOPAL 2102                  Gcia Sav Yopal 2102 YOPAL
+2103GCIA SAV YOPAL 2103                  Gcia Sav Yopal 2103 AGUAZUL
+2104GCIA SAV IBAGUE 2104                 Gcia Sav Ibague 2104IBAGUE
+2105GCIA SAV TUNJA 2105                  Gcia Sav Tunja 2105 TUNJA
+2106GCIA SAV TUNJA 2106                  Gcia Sav Tunja 2106 TUNJA
+2107GCIA SAV MAG MEDIO 2107              Gcia Sav M Med 2107 BBERMEJA
+2108GCIA SAV MAG MEDIO 2108              Gcia Sav M Med 2108 SABANA TO
+2109GCIA SAV CUCUTA 2109                 Gcia Sav Cucuta 2109LOS PATIO
+2110GCIA SAV CUCUTA 2110                 Gcia Sav Cucuta 2110CUCUTA
+2111GCIA SAV CUCUTA 2111                 Gcia Sav Cucuta 2111VILL ROSA
+2112GCIA SAV PASTO 2112                  Gcia Sav Pasto 2112 PASTO
+2113GCIA SAV PASTO 2113                  Gcia Sav Pasto 2113 PASTO
+2114GCIA SAV POPAYAN 2114                Gcia Sav Pop 2114   POPAYAN
+2115GCIA SAV GIN Y GUAC 2115             Gcia Sav G y G 2115 GUACARI
+2116GCIA SAV TULUA 2116                  Gcia Sav Tulua 2116 TULUA
+2117GCIA SAV BUGA 2117                   Gcia Sav Buga 2117  GUADALAJA
+2118GCIA SAV PALMIRA 2118                Gcia Sav Pal 2118   EL CERRIT
+5011CAN                                  can                 CABOTA
+5012POLICIA METROPOLITANA DE BOGOTA      polic metrop bogota BOGOTA
+5014POLICIA METROPOLITANA BARRANQUILLA   polic metrop bquillaBARRANQU
+5018CTON NTE ESCUELA ARMAS Y SERVICIOS   cton nte esc arm serBOGOTA
+5028CTRO ATENC LIBRANZAS PUERTO ASIS     Ctro Atn Libr Pto AsPto Asis
+5029CTRO ATN LIBRANZA POLICIA ESPINAL    Ctro Atn Lib Pol EspESPINAL
+5030CTRO ATN LIBRANZA EJERCITO V/CENCIO  Ctro Atn Lib Ejc V/cVILLAVICE
+5034CTRO ATN LIBRANZA CUCUTA             Ctr Atn Lib Cucuta  CUCUTA
+5035CTRO ATN LIBRANZA DIV EJERCITO POPAY Ctr Atn Lib Div EjerPOPAYAN
+5036CTRO ATN LB BRIG NO 11 EJER MONTERIA C At Lb Bg 11 Ej MtrMonteria
+5040CTR ATN LB VILLAVICENCIO             C At Lb Vcencio     Vcencio
+5043CTR ATN LB FIDUPREVISORA CALLE 72    C At Lb Fidup Cll 72Bogota
+5100COORD CIAL LBZA BTA NOROCCIDE        Coord C Lb Bta NorocBOGOTA
+5101COORD CIAL LBZA BTA CTR OCCID        Coord C Lb Bta Ct OcBOGOTA
+5102COORD CIAL LBZA BTA CENTRO           Coord C Lb Bta CentrBOGOTA
+5103COORD CIAL LBZA BTA SUR OCCID        Coord C Lb Bta S OccBOGOTA
+5104COORD CIAL LBZA CUNDINAMARCA         Coord C Lb CundinamaBOGOTA
+5105COORD CIAL LBZA ANTIOQUIA            Coord C Lb AntioquiaMEDELLIN
+5106COORD CIAL LBZA ANTL Y CESAR         Coord C Lb Ant y CesBQUILLA
+5107COORD CIAL LBZA CORD Y MAGDAL        Coord C Lb Cor y MagMONTERIA
+5108COORD CIAL LBZA NTE SANTANDER        Coord C Lb Nte SantaCUCUTA
+5109COORD CIAL LBZA MEDELLIN             Coord C Lb Medellin MEDELLIN
+5110COORD CIAL LBZA SANTANDER            Coord C Lb SantanderBMANGA
+5111COORD CIAL LBZA BOYACA               Coord C Lb Boyaca   TUNJA
+5112COORD CIAL LBZA EJE CAFETER          Coord C Lb Eje CafetARMENIA
+5113COORD CIAL LBZA LLANOS ORIENT        Coord C Lb Llanos OrVCENCIO
+5114COORD CIAL LBZA CALI                 Coord C Lb Cali     CALI
+5115COORD CIAL LBZA HUILA Y PUTUM        Coord C Lb Hui y PutNEIVA
+5116COORD CIAL LBZA TOLIMA GRANDE        Coord C Lb Tol GrandIBAGUE
+5117COORD CIAL LBZA NAR Y CAUCA          Coord C Lb Nar y CauPASTO
+5201LIBRANZAS DUITAMA                    Libranzas Duitama   DUITAMA
+5202LIBRANZAS SOGAMOSO                   Libranzas Sogamoso  SOGAMOSO
+5203SATELITE MUNICIPIOS BOYACA           Satelite Muni BoyacaTUNJA
+5204LIBRANZAS TUNJA                      Libranzas Tunja     TUNJA
+5205SATELITE SAN GIL                     San Gil             SAN GIL
+5206LIBRANZAS BARRANQUILLA               Libranzas Bquilla   BQUILLA
+5207REGIONAL BARRANQUILLA 2              Regional Bquilla 2  BQUILLA
+5208REGIONAL BARRANQUILLA                Regional Bquilla    BQUILLA
+5209LIBRANZAS RIOACHA                    Libranzas Rioacha   RIOACHA
+5210SATELITE MUNICIPIOS GUAJIRA          Sate Munic Guajira  BQUILLA
+5211LIBRANZAS SOLEDAD                    Libranzas Soledad   SOLEDAD
+5212REGIONAL VALLEDUPAR                  Regional Valledupar VDUPAR
+5213SATELITE SAN ANDRES                  Satelite San AndreS SANDRES
+5214REGIONAL CARTAGENA                   Regional Cartagena  CTAGENA
+5215SATELITE MUNICIPIOS BOLIVAR          Sate Munic Bolivar  CTAGENA
+5216LIBRANZAS PLAZUELA CARTAGENA         Lbr Plazuela CartageCTAGENA
+5217LIBRANZAS GIRARDOT                   Libranzas Girardot  GIRARDOT
+5218LIBRANZAS LA DORADA                  Libranzas La Dorada LA DORAD
+5219SATELITE PUERTO SALGAR               Sate Puerto Salgar  PTO SALG
+5220REGIONAL IBAGUE                      Regional Ibague     IBAGUE
+5221SATELITE MOCOA                       Satelite Mocoa      MOCOA
+5222SATELITE PUERTO LEGUIZAMO            Sat Puerto LeguizamoPTO LEGU
+5223SATELITE PITALITO                    Satelite Pitalito   PITALITO
+5224SATELITE CHAPARRAL                   Satelite Chaparral  CHAPARRA
+5225SATELITE NEIVA ALEDANOS              Sat Neica Aledanos  NEIVA
+5226LIBRANZAS GARZON                     Libranzas Garzon    GARZON
+5227REGIONAL TOLEMAIDA                   Regional Tolemaida  MELGAR
+5228REGIONAL BTA NOR OCCIDENTE           Reg Bta Nor OccidentBOGOTA
+5229REGIONAL ESCUELA MILITAR             Reg Escuela Militar BOGOTA
+5230LIBRANZAS APARTADO                   Libranzas Apartado  APARTADO
+5231SATELITE TURBO CHIGORODO             Sate Turbo ChigorodoQUIBDO
+5232SATELITE MUNICIPIOS CHOCO            Satelite Municipios P BOYACA
+5233SATELITE PUERTO BOYACA               Satelite Pto Boyaca P BERRIO
+5234LIBRANZAS PUERTO BERRIO              Libranzas Pto BerrioP BERRIO
+5235LIBRANZAS RIONEGRO                   Libranzas Rionegro  RIONEGRO
+5236LIBRANZAS FLORENCIA                  Libranzas Florencia FLORENCI
+5237REGIONAL MEDELLIN                    Regional Medellin   MEDELLIN
+5238LIBRANZAS ARGOS                      Libranzas Argos     MEDELLIN
+5239LIBRANZAS BELLO                      Libranzas Bello     BELLO
+5240LIBRANZAS ITAGUI                     Libranzas Itagui    ITAGUI
+5241REGIONAL MONTERIA                    Regional Monteria   MONTERIA
+5242LIBRANZAS SANTA MARTA                Libranzas Sta Marta STA MART
+5243SATELITE TIERRALTA                   Satelite Tierralta  MONTERIA
+5244SATELITE CAUCASIA                    Satelite Caucasia   CAUCASIA
+5245LIBRANZAS SINCELEJO                  Libranzas Sincelejo SCELEJO
+5246LIBRANZAS ZIPAQUIRA                  Libranzas Zipaquira ZIPAQUIR
+5247REGIONAL CUNDINAMARCA                Reg Cundinamarca    BOGOTA
+5248LIBRANZAS FUSAGASUGA                 Libranzas FusagasugaFUSAGASU
+5249LIBRANZAS SOACHA                     Libranzas Soacha    BOGOTA
+5250LIBRANZAS NEIVA                      Libranzas Neiva     NEIVA
+5251LIBRANZAS IPIALES                    Libranzas Ipiales   IPIALES
+5252LIBRANZAS PASTO                      Libranzas Pasto     PASTO
+5253LIBRANZAS TUMACO                     Libranzas Tumaco    TUMACO
+5254LIBRANZAS POPAYAN                    Libranzas Popayan   POPAYAN
+5255REGIONAL BTA CTRO OCCIDENTE          Reg Bta Ctro OccidenBOGOTA
+5256LIBRANZAS LETICIA                    Libranzas Leticia   LETICIA
+5257REGIONAL BOGOTA CENTRO               Regional Bta Centro BOGOTA
+5258LBZA CIUDAD MILAGRO ARMENIA          Lbza Cdad Mlgro ArmeARMENIA
+5259LIBRANZAS MANIZALES                  Libranzas Manizales MANIZALE
+5260REGIONAL PEREIRA                     Regional Pereira    PEREIRA
+5261LBZAS LAGO PARQUE URIBE              Lbzas Lago Pqe UribePEREIRA
+5262REGIONAL CANTON SUR                  Regional Canton Sur BOGOTA
+5263LIBRANZAS CUCUTA                     Libranzas Cucuta    CUCUTA
+5264LIBRANZAS ARAUCA                     Libranzas Arauca    ARAUCA
+5265SATELITE SARAVENA                    Satelite Saravenas  ARAVENA
+5266REGIONAL BUCARAMANGA                 Regional BucaramangaBMANGA
+5267LIBRANZAS BARRANCABERMEJA            Libranzas Bbermeja  BBERMEJA
+5268REGIONAL VILLAVICENCIO               Reg Villavicencio   VCENCIO
+5269REGIONAL BTA SUR OCCIDENTE           Reg Bta Sur OccidentBOGOTA
+5270LIBRANZAS PUERTO CARRENO             Lbzas Puerto CarrenoVCENCIO
+5271LIBRANZAS YOPAL                      Libranzas Yopal     YOPAL
+5272LIBRANZAS ACACIAS                    Libranzas Acacias   VCENCIO
+5273REGIONAL CALI                        Libranzas Cali      CALI
+5274LIBRANZAS TULUA                      Libranzas Tulua     TULUA
+5275LIBRANZAS BUGA                       Libranzas Buga      BUGA
+5276SATELITE BTA SUR OCCIDENTE           Sat Bta Sur OccidentBOGOTA
+5277LIBRANZAS PALMIRA                    Libranzas Palmira   PALMIRA
+5278SATELITE EL CAGUAN                   Satelite el Caguan  SV CAGUA
+5279SATELITE CAQUETA                     Satelite Caqueta    FLORENCI
+5280SATELITE BUCARAMANGA                 Satelite BucaramangaBMANGA
+5281SATELITE BMANGA ALEDANOS             Sat Bmanga Aledanos BMANGA
+5282SATELITE ESPINAL                     Satelite Espinal    ESPINAL
+5283SATELITE IBAGUE ALEDANOS             Sat Ibague Aledanos IBAGUE
+5284SATELITE MONTERIA ALEDANOS           Sat Monteria AledanoMONTERIA
+5285SATELITE ESCUELA MILITAR             Sate Escuela MilitarBOGOTA
+5286SATELITE CUNDINAMARCA                Satelit CundinamarcaBOGOTA
+5287LIBRANZAS COVENAS                    Libranzas Covenas   COVENAS
+5288LIBRANZAS BASE NAVAL                 Libranzas Base NavalCTAGENA
+5289LIBRANZAS TOLEMAIDA                  Libranzas Tolemaida MELGAR
+5290LIBRANZAS SAN JOSE GUAVIARE          Lbzas San Jose Guav S JOSE G
+5291LIBRANZAS LARANDIA                   Libranzas Larandia  CAQUETA
+5292EMAVI                                Emavi               CALI
+5293LIBRANZAS CANTON SUR                 Libranzas Canton SurBOGOTA
+5294SATELITE YOPAL                       Satelite Yopal      YOPAL
+5295SATELITE TIBU                        Satelite Tibu       CUCUTA
+5296SATE VILLAVICENCIO ALEDANOS          Sat Vcencio AledanosVCENCIO
+5297SATELITE MUNICIPIO DE CALI           Sat Mcipio de Cali  Stdr Qui
+5298SATELITE MARIQUITA                   Sat Mariquita       Mariquita
+8005ZA CALIMA ARMENIA                    ZA Calima Armenia   Armenia
+8007ZA CTRO CCIAL FLORIDA PARQUE COMERCIAZA CC Florida ParqueMedellin
+8009ZA CENTRO COMERCIAL CENTRO MAYOR     ZA CC Centro Mayor  BOGOTA
+8010ZA CENTRO COMERCIAL SAN SILVESTRE    ZA CC Sn Silvestre  BOGOTA
+8013ZA CENTRO COMERCIAL LA ESTACION      ZA CC La Estacin   IBAGUE
+8014ZA CENTRO COMERCIAL PARQUE ARBOLEDA  ZA CC Parque ArboledPEREIRA
+8016ZA CENTRO COMERCIAL ANDINO           ZA Ctr Ccial Andino BOGOTA
+8017ZA EDIFICIO BANCO BOGOTA CALI        ZA Ed Bco Bta Cali  Cali
+8018ZA AUTOSERVICIO PARQUE EL VIRREY     ZA Auto Pq El VirreyBOGOTA
+8019ZA CENTRO COMERCIAL CARACOLI         ZA CC Caracoli      FLORIDABLC
+8020ZA DELACUESTA CENTRO COMERCIAL       ZA Delacuesta CC    FLORIDABLC
+8021ZA CENTRO COMERCIAL CALIMA           ZA CC Calima        BOGOTA
+8024ZA CENTRO COMERCIAL CACIQUE          ZA CC Cacique       B/MANGA
+8025ZA CENTRO DE PAGOS CCIAL CANAVERAL   ZA Ctro Pagos CC CanFLORIDABLC
+8026ZA CENTRO COMERCIAL UNICENTRO BOGOTA ZA CC Unicentro Bta BOGOTA
+8027ZA CENTRO COMERCIAL VENTURA PLAZA    ZA CC Ventura Plaza CUCUTA
+8029ZA EXT CAJA CC BUENAVISTA SANTA MARTAZA Ex Cj CC BVsta SMSANTA MARTA
+8030ZA CTRO COMERCIAL BUENAVISTA MONTERIAZA CC Bvista MonteriMONTERIA
+8031ZA OFICINA CENTRO COMERCIAL TITAN    ZA Of CC Titan      BOGOTA
+8032ZA OF PLAZA DE LAS AMERICAS          ZA Of Plaza AmericasBOGOTA
+8033ZA OFICINA CHIPICHAPE                ZA Of Chipichape    Cali
+8034ZA UNICENTRO CALI                    ZA Unicentro Cali   Cali
+8035ZA OFICINA UNICENTRO YOPAL           ZA Of Unicentro YopaYOPAL
+8036ZA OF CENTRO COMERCIAL SANTAFE       ZA Of CC Santafe    BOGOTA
+8037ZA OF CC PLAZA IMPERIAL              ZA Of CC Pz ImperialBOGOTA
+8038ZA OF CC UNICENTRO CUCUTA            ZA Of CC Unicentro CCUCUTA
+8039ZA OFICINA BARRANQUILLA              ZA Of Barranquilla  Bquilla
+8040ZA REGIONAL BARRANQUILLA             ZA Regional Bquilla Bquilla
+8041ZA CENTRO COMERCIAL FONTANAR         ZA CC Fontanar      Chia
+8042ZA CENTRO COMERCIAL TINTAL           ZA CC Tintal        Bogota
+8043ZA CENTRO COMERCIAL TUNAL            ZA CC Tunal         Bogota
+8044ZA CENTRO COMERCIAL CABECERA         ZA CC Cabecera      Santander
+8045ZA OFICINA CALI CENTRO               ZA Of Cali Centro   Cali
+8046ZA OFICINA COSMOCENTRO               ZA Of Cosmocentro   Cali
+8047ZA OFICINA LA PLAZUELA               ZA Of La Plazuela   Cartagena
+8048ZA CENTRO COMERCIAL MILENIO PLAZA    ZA CC Milenio Plaza Bogota
+8049ZA OFICINA CENTRO COMERCIAL ALAMEDAS ZA Of CC Alamedas   Monteria
+8050ZA OFICINA CC UNICENTRO VALLEDUPAR   ZA Of CC Unicen VallVdupar
+8051ZONA AUTOSERVICIO OFICINA LA TRIADA  ZA Of La Triada     Bmanga
+8052ZONA AUTOSERVICIO OFICINA IBAGUE     ZA Of Ibague        Ibague
+8053ZONA AUTOSERVICIO OFICINA RESTREPO   ZA Of Restrepo      Bogota
+8054ZA OFICINA CC BULEVAR NIZA           ZA Of CC Bulevar NizBogota
+8055ZA OFICINA CC MAZUREN                ZA Of CC Mazuren    Bogota
+8056ZA OFICINA CC PASEO SAN RAFAEL       ZA Of CC Paseo S RafBogota
+8057ZA OFICINA CC LA 14 VALLE DE LILI    ZA Of CC La 14 V LilCali
+8058ZA OFICINA UNICENTRO VILLAVICENCIO   ZA Of UniCtro VcenciVicencio
+8059ZA OFICINA VENECIA                   ZA Of Venecia       Bogota
+8060ZA OFICINA SANTUARIO 20 DE JULIO     ZA Of Sant 20 de JulBogota
+8061ZA OFICINA MOSQUERA                  ZA Of Mosquera      Mosquera
+8062ZA OFICINA CORABASTOS                ZA Of Corabastos    Bogota
+8063ZA OFICINA CC CALIMA CALI            ZA Of CC Calima CaliCali
+8064ZA OFICINA AVENIDA LIBERTADOR        ZA Of Av Libertador Bmanga
+8065ZA GOBERNACION DEL META              ZA Gobernacion Meta Vcencio
+8066ZA OFICINA PASOANCHO                 ZA Of Pasoancho     Cali
+8067ZA OFICINA BUCARAMANGA               ZA Of Bucaramanga   BMANGA
+8069ZA OFICINA CC ALTAVISTA              ZA Of CC Altavista  BOGOTA
+8070ZA OFICINA YOPAL                     ZA Of Yopal         YOPAL
+8071ZA OFICINA NEIVA                     ZA Of Neiva         NEIVA
+8072ZA OFICINA SANTA LIBRADA             ZA Of Santa Librada Bogota
+8073ZA OFICINA PRINCIPAL                 ZA Of Principal     Bogota
+8074ZA OFICINA FONTIBON                  ZA Of Fontibon      Bogota
+8075ZA OFICINA PASTO                     ZA Of Pasto         Pasto
+8076ZA OFICINA UNICENTRO PASTO           ZA Of Unictro Pasto Pasto
+8077ZA OFICINA CARRERA 10 CALLE 17       ZA Of Cra 10 Cll 17 Bogota
+8078ZA OFICINA CC GRAN ESTACION          ZA Of CC Gran EstaciBogota
+8079ZA OFICINA PORTAL DE LA 80           ZA Of Portal 80     Bogota
+8080ZA OFICINA CC SAN PEDRO PLAZA        ZA Of CC S Pedro PlzNeiva
+8081ZA OFICINA CUCUTA                    ZA Of Cucuta        Cucuta
+8082ZA OFICINA YUMBO                     ZA Of Yumbo         Yumbo
+8083ZA OFICINA SOTOMAYOR                 ZA Of Sotomayor     Bmanga
+8084ZA OF CENTRO COMERCIAL CARIBE PLAZA  ZA Of CC Caribe PlzaCtagena
+8085ZA OFICINA SANTA MARTA               ZA Of Santa Marta   StaMarta
+8086ZA OFICINA CALLE 100                 ZA Of Calle 100     Bogota
+8087ZA OFICINA METROPOLIS                ZA Of Metropolis    Bogota
+8088ZA OFICINA EL CASTILLO               ZA Of El Castillo   Bogota
+8089ZA OFICINA AVENIDA CHILE             ZA Of Avenida Chile Bogota
+8090ZA OFICINA DUITAMA                   ZA Of Duitama       Bquilla
+8092ZA OFICINA TUNJA                     ZA Oficina Tunja    Tunja
+8093ZA OFICINA CC CENTRO NORTE TUNJA     ZA Of CC Ctro Nte TjTunja
+8094ZA OFICINA GALAN BARRANCABERMEJA     ZA Of Galan BarrancaBarranca
+8095ZA CENTRO COMERCIAL ANTARES SOACHA   ZA CC Antares SoachaSoacha
+8096ZA OF CC GUATAPURI                   ZA Of CC Guatapuri  VDUPAR
+8097ZA OF LA VICTORIA SUR ORIENTE        ZA Of La Vict S OrteBogota
+8098ZA OF CC HAYUELOS                    ZA Of CC Hayuelos   Bogota
+8099ZA OF SOGAMOSO                       ZA Of Sogamoso      Sogamoso
+8100ZA OF RICAURTE                       ZA Of Ricaurte      Bogota
+8101ZA OF SAN DIEGO                      ZA Of San Diego     Bogota
+8102ZA OF PARQUE RIVEROS ACACIAS         ZA Of Pq River AcaciAcacias
+8103ZA OF FLORENCIA                      ZA Of Florencia     Florencia
+8104ZA OF IMBANACO                       ZA Of Imbanaco      Cali
+8105ZA OF BOULEVARD 54                   ZA Of Boulevard 54  Bquilla
+8106ZA OF CC PORTAL DEL PRADO            ZA Of CC Portal PrdoBquilla
+8107ZA OF APARTADO                       ZA Of Apartado      Apartado
+8108ZA OF CC NUESTRO MONTERIA            ZA Of CC Nu MonteriaMONTERIA
+8110ZA OF MONTELIEBANO                   ZA Of Monteliebano  MONTELIE
+8111ZA OF CC LOS MOLINOS                 ZA Of Los Molinos   Medellin
+8112ZA OF CC CAMPANARIO                  ZA Of CC Campanario Popayan
+8113ZA OF CARRERA 38                     ZA Of Carrera 38    Bquilla
+8114ZA OF EL PRADO                       ZA Of El Prado      Bquilla
+8115ZA OF CC DIVER PLAZA                 ZA Of CC Diver PlazaBogota
+8116ZA OF CC PLAZA DEL RIO               ZA Of CC Plaza d RioApartado
+8117ZA OF AVENIDA 19                     ZA Of Avenida 19    Bogota
+8118ZA OF POPAYAN                        ZA Of Popayan       Popayan
+8119ZA OF CAN                            ZA Of Can           Bogota
+8120ZA OF GRAN PLAZA DEL SOL             ZA Of Gran Plaza SolBquilla
+8121ZA OF BOCAGRANDE                     ZA Of Bocagrande    Cartagena
+8122ZA OF CARTAGENA                      ZA Of Cartagena     Cartagena
+8123ZA OF AV CALLE 68                    ZA Of Av Calle 68   Bogota
+8124ZA OF CC PANORAMA                    ZA Of CC Panorama   Bogota
+8125ZA OF CENTRO SUBA                    ZA Of Centro Suba   Bogota
+8126ZA OFICINA PASTO PLAZA               ZA Of Pasto Plaza   Pasto
+8127ZA OF CHIA                           ZA Of Chia          Chia
+8128ZA OF TOBERIN                        ZA OF Toberin       Bogota
+8129ZA OF LAS MARGARITAS                 ZA OF Las MargaritasBogota
+8130ZA OF RINCON SUBA                    ZA OF Rincon Suba   Bogota
+8131ZA OFICINA BUGA                      ZA Oficina Buga     Buga
+8135ZA OFICINA VIVA ENVIGADO III         ZA Of Viva Envig IIIEnvigado
+8136ZA OFICINA FONTIBON III              ZA Of Fontibon III  Bogota
+8137ZA OFICINA CC GALERIAS III           ZA Of CC GaleriasIIIBogota
+8138ZA OFICINA CHAPINERO III             ZA Of Chapinero III Bogota
+8139ZA OF CC UNICENTRO ENTRADA PRIN IV   ZA Of CC Unic ent IVBogota
+8140ZA OF MALL PLAZA MANIZALES III       ZA Of Mall P MNZ IIIManizales
+8141ZA OFICINA IPIALES II                ZA Of Ipiales II    Ipiales
+8142ZA OFICINA CITY U                    ZA Of City U        Bogota
+8143ZA OFICINA CC ARKADIA II             ZA Of cc Arkadia II Medellin
+8144ZA OFICINA CC NUESTRO CARTAGO        ZA Of CC Nuest CartaCartago
+8145ZA OFICINA LAS PALMAS FUSAGASUGA     ZA Of Las Palmas FusFusagasug
+8700ZA DIRECCION GENERAL SEDE A 1ER PISO ZA DG Sede A 1er ps BOGOTA
+9001GCIA NACIONAL DE NORMALIZACION       gcia nacional normalBOGOTA
+9002GCIA SOLUC PARA INTERNAC Y TESORERIA G Soluc Inter y TesoBOGOTA
+9003DIRECCION NACIONAL PYME              Dir Nacional Pyme   Bogota
+9004GER OPE DE INTERN Y MDO DE CAPITALE  Ger Op Int y Mdo Cp Bogota
+9005GER NCNAL NORMALIZACION PYME         Ger Nac Normal Pyme Bogota
+9006GERENCIA CASH PYME                   Ger Cash Pyme       Bogota
+9007UNIDAD SEGMENTO PYME                 Unid Segmento Pyme  Bogota
+9008JEFATURA LEASING PYME                Jeft Leasing Pyme   Bogota
+9009DIR INTEGR PERIMETRO AGILE Y OTROS   Dir Int Perm Agil O Bogota
+9010UNID HABILITD INFORM TRANSACCIONAL   U Hab Infor TransaccBogota
+9011CONTRALORIA EN BAC                   Contraloria en Bac  BOGOTA
+9012GERENCIA POLITICA DE CREDITO         Gcia Politica CreditBogota
+9014PROYECTO MEL                         Proyecto Mel        BOGOTA
+9017DIR E.P.V. BANCA EMPRESAS            Dir E.P.V Bc EmpresaBOGOTA
+9018GCIA CREDITO CONSTRUCTOR PMP         Gcia Cred Const PMP BOGOTA
+9021FONDO DE EMPLEADOS                   Fondo de Empleados  BOGOTA
+9024GERENCIA DE INCLUSION FINANCIERA     Gcia Inclusion FinanBogota
+9026GCIA DE GOBIERNO Y CALIDAD DE INFORMAGcia gob cal de infoBogota
+9030COE SEGURIDAD Y CIBERSEGURIDAD       Coe Seg CiberseguridBogota
+9033VICEP TECNOLOGIA Y OPERACIONES       Vicep Tecnog Operac Bogota
+9034DIR OPERACIONES Y PROCESOS           Dir Operac y Proce  Bogota
+9035DIR DE SOLUCIONES TECNOLOGICAS       Dir Soluciones Tecg Bogota
+9036CENT NEGOC Y OPERAC LEASING          Cent Neg Ope LeasingBOGOTA
+9039DIR ARQUITECTURA Y PLANEACION        Dir Arquitec y planeBOGOTA
+9040DIR OPER PASIVO Y TRANSACCIONAL      Dir Oper Pas Trans  BOGOTA
+9042DIR DE INFRAESTRUCTURA               Dir de Infraestruct BOGOTA
+9043COE DE DESARROLLO                    Coe de Desarrollo   BOGOTA
+9044COE DE PRUEBAS DE SOFTWARE           Coe Prueba d Softwa BOGOTA
+9045GCIA OPERATIVA CANALES VIRTUALES     G Oper Canal VirtualBOGOTA
+9046GERENCIA PRODUCTIVIDAD EMPRESARIAL   G Prod Empresarial  BOGOTA
+9047DIRECCION CREDITO CONSTRUCTOR        Dir Credito Constru BOGOTA
+9048GER INNOVACION Y CREATIVIDAD ESTRATEGG Innv creatv EstratBOGOTA
+9049PROYECTO CONEXION AVAL               Proyecto Conex Aval BOGOTA
+9050SISTEMA GEST Y SOSTE DE PROC OPER    S.Ges.Sos.Proc.oper BOGOTA
+9053DIR INV ECONOMICAS ANALISIS MERCADO  D.Inv.Eco.An.MercadoBOGOTA
+9054DIRECCION IMPACTO COMERCIAL          Dir Impacto ComerciaBOGOTA
+9055DIRECCION ADMINISTRATIVA             Dir Administrativa  BOGOTA
+9056DIR TRADING Y DISTRIBUCION           Dir Trading y Distr Bogota
+9059GERENCIA TARJETA DEBITO              Gcia Tarjeta Debito Bogota
+9060GCIA DE ANALISIS DE MERCADOS         G. Analisis de McdosBogota
+9061GERENCIA DE SINERGIAS CORPORATIVAS   Gcia Sinergia CorporBogota
+9062OFICIAL COSTA 2                      Oficial Costa 2     Vdupar
+9063GER ZN BOG CENTRAL                   GER ZN BOG CENTRAL  Bogota
+9064DIRECCION BANCA PREMIUM              DIRECCION BANCA PREMBogota
+9068DIRECCION MEDIOS DE PAGO             Dir Medios de Pago  Bogota
+9070GIRON                                Giron               Bogota
+9071GCIA TECNICA PROYECTOS INMOBILIARIOS G. Tec Proy InmobiliBogota
+9072GCIA POLITICAS CONTABLES             Gcia Politicas ContaBogota
+9073GER ESTADO FINANCIERO CONSOLIDADO    Ger Est Finan ConsolBogota
+9074GER ESTADO FINANCIERO SEPARADOS      Ger Est Finan Separ Bogota
+9075GCIA DE COBRANZAS CALL CENTER        GCIA COBZAS CALL CENBogota
+9076GCIA DE COBRANZAS CASAS EXTERNAS     GCIA COBZAS CASAS EXBogota
+9077GCIA DE COBRO JURIDICO               GCIA COBRO JURIDICO Bogota
+9078GCIA GESTION ESTRATEGICA COBRANZAS   Gcia G Estra CobranzBogota
+9079CALIDAD Y MONITOREO DNC              Calidad y Monit DNC Bogota
+9080DPTO DE ANALIS ALERTS Y PREV DE FRAUDDpt Anali Alr y P FrBogota
+9081DIR DE PRODUCTO ESTRATEGIA DIGITAL   Dir Prod Estrat Dig Bogota
+9082GCIA DE ARQUITECTURA                 Gcia de ArquitecturaBOGOTA
+9083GCIA DE RELACION CON EL INVERSIONISTAGcia Rel.InversionisBOGOTA
+9085GERENCIA  UNIDAD TECNICA             Ger.Unidad Tecnica  Bogota
+9086GERENCIA TECNICA DE ACTIVOS          Gcia Tecnica ActivosBogota
+9087CREDITO DE FOMENTO                   Credito de Fomento  Bogota
+9088GERENCIA POLITICA DE CREIDITO        Gcia Politica CreditBogota
+9089DIR MEDIANA EMPR                     DIR MEDIANA EMPR    Bogota
+9090DIREC MEDIANA EMPRESA BTA Y CENTORIENDir med emp bta-centBogota
+9091DIREC MED EMP ANTIOQ-OCCIDENT Y COSTADir m-emp ant oc-cosMedellin
+9092MED EMP BOGO NORT                    MED EMP BOGO NORT   Bogota
+9093GCIA ZN ME EM BT CE                  GCIA ZN ME EM BT CE Bogota
+9094GCIA ZN ME EM BT SU                  GCIA ZN ME EM BT SU Bogota
+9095GCIA ZN MED EMP ORI                  GCIA ZN MED EMP ORI Bucaraman
+9096GER ZONA MEDIANA EMPRESA CENTRORIENTEGcia med emp centrorCali
+9097GERENCIA ZONA EMPRESARIAL COSTA      Ger Zna Empre Costa Barranqui
+9098GERENCIA ZONA EMPRESARIAL ANTIOQ EJE Ger Zn Empre Ant EjeMedell
+9099GERENCIA ZONA EMPRESARIAL BOGOTA 2B  Ger Zna Empre Bta 2BCali
+9111COE MEDIOS Y MARKETING DIGITAL       Coe Mdio Markt Digi Bogota
+9123DIRECCION DE PROCESOS                Dir de Procesos     Bogota
+9124GCIA XCENTER                         Gcia Xcenter        Bogota
+9125GCIA INGENIERIA DE REQUERIMIENTOS    G Ing RequerimientosBogota
+9136GCIA UNIDAD DE RETENCION PN          G Unid retencion PN Bogota
+9143DIR SEG CORP INSTIT                  DIR SEG CORP INSTIT Medelln
+9144GCIA ZON SER NO FIN                  GCIA ZON SER NO FIN Medelln
+9145GCIA ZONA AGROIND                    GCIA ZONA AGROIND   Cali
+9171DIR SEG EMPRESARIAL                  DIR SEG EMPRESARIAL Cali
+9172GER ZONA EMP ANTIOQ                  Ger Zona Emp Antioq Medellin
+9173GERENCIA ZONA EMPRESARIAL OCCIDENTE  Ger Zna Empre OccideCali
+9193DIREC FUERZA DE VENTAS EXTERNAS      D.Fza de Ventas Ext Bogota
+9194JEFATURA BTA 1 SEGMENTO EMP          Jef bta 1 seg-emp   Bogota
+9195JEFATURA BTA 2 SEGMENTO EMP          Jef bta 2 seg-emp   Bogota
+9196JEFATURA OCCID SEGMENTO EMP          Jef occi seg-emp    Calita
+9197JEFATURA ANTI-EJE SEG/O EMP          Jef anti-eje seg-empMedelln
+9198JEFATURA COSTA SEGMENTO EMP          Jef. costa seg-emp  Barranqui
+9199JEFATURA ORIEN SEGMENTO EMP          Jef. orien seg-emp  Bucaraman
+9203DIR FUERZA VITAL MULTIPRODUCTO       D.Fza Vital MultiproBogota
+9204JEFATURA BTA 1  SEGMENTO OF          Jef. bta 1  seg-ofi Bogota
+9205JEFATURA BTA 2  SEGMENTO OF          Jef. bta 2  seg-ofi Bogota
+9206JEFATURA OCCIDENTE SEG-OFI           Jef. occi seg-ofi   Cali
+9207JEFATURA  ANT Y EJE SEG-OFI          Jef. ant-eje seg-ofiMedellin
+9208JEFATURA COSTA SEG-OFICIAL           Jef.costa seg-ofi   Barranqui
+9209JEFATURA ORIENTE SEG-OFI             Jef. oriente seg-ofiBucaraman
+9210JEFATURA CENTRAL SEG-OFI             Jef. central seg-ofiBogota
+9215GER OPORTUNIDADES COMERCIAL          Ger opor-comer      Bogota
+9216JEF. BTA OPORTUNIDAD COMER           Jef. bta opor-comer Bogota
+9217JEF. OCC OPORTUNIDAD COMER           Jef. occ opor-comer Cali
+9218JEF. ANT-EJE OPORTUNIDAD CO          Jef. ant-eje opor-coMedellin
+9219JEF. COSTA OPORTUNIDAD COM           Jef. costa opor-com Barranqui
+9220JEF. ORIENTE OPORTUNIDAD CO          Jef. oriente opor-coBucaraman
+9221JEF. BTA OPORTUNIDAD COM 2           Jef. bta opor-com 2 Bogota
+9223DIRECCION CONTACT CENTER             Dir Contact Center  Bogota
+9227GERENCIA CASH MIPYME                 Ger Cash mipyme     Bogota
+9228JEFATURA BOGOTA                      Jefatura bogota     Bogota
+9229JEFATURA CALI-MEDELLIN               Jef. cali-medellin  Cali
+9230JEFATURA B/QUILLA-B/MANGA            Jef.  b/quilla-b/mgaBarranqui
+9234GERENCIA ALIADOS Y NUEVOS NEGOCIOS   Gcia Alia Nvos Neg  Bogota
+9236DIR DRLLO Y ESTRATEGIA COMERCIAL     Dir Drllo Est cial  Bogota
+9237JEF. SISTEMA DE INFOR GEREN          Jef. sist info gerenBogota
+9238GER INTELIGENCIA DE VENTA            Ger int/gencia ventaBogota
+9239JEF. PLANEA-PROYECTOS ESP            Jef. planea-proy espBogota
+9240GCIA DLLO COMERCIAL CANALES MASIVOS  G.Dllo Cial Can MasiBogota
+9241DIR CONTROL DEL NEGOCIO              Dir Control Negocio Bogota
+9242GERENCIA ADMINISTRATIVA              Ger administrativa  Bogota
+9245GERENCIA E E                         Gerencia E E        Bogota
+9402DIR SERVICIO CLIENTE                 Dir servicio clienteBogota
+9426GCIA GESTION VENTAS                  Gcia Gestion Ventas BOGOTA
+9434GCIA EXPERIENCIA DEL CLIENTE         Gcia Exp del Client Bogota
+9633DIR DE DESARROLLO CORPORATIVO        Dir Desarol Corpora BOGOTA
+9635GCIA SERVICIO AL CLIENTE REG.CENTRAL G. Servicio Central Bogota
+9636GCIA SERVICIO AL CLIENTE REG.COSTA   G. Servicio Costa   B/quilla
+9637GCIA SERVICIO AL CLIENTE REG.ORIENTE G. Servicio Oriente B/manga
+9638GCIA SERVICIO AL CLIENTE REG.BOGOTA  G. Servicio Bogota  Bogota
+9639GCIA SERVICIO AL CLIENTE REG.OCCIDENTG. Servicio OccidentCali
+9640GCIA SERVICIO AL CLIENTE REG.ANTIOQ  G. Servicio AntioquiMedellin
+9651COE AGILIDAD                         Coe Agilidad        Bogota
+9652UNID SEGMENTO RETAIL                 Unid Segmento RetailBogota
+9653UNID PRODUCTO CARTERA COMERCIAL      Unid Prod Cart Cial Bogota
+9654UNID HABILITADORA RIESGO             Unid Hab Riesgo     Bogota
+9655UNID SEGMENTO EMPRESARIAL            Unid Segmento Empre Bogota
+9656UNID PRODUCTO DEPOSITOS              Unid Prod Depositos Bogota
+9657UNID PRODUCTO TC Y TD PREPAGO        Unid Prod TC TD Pre Bogota
+9658UNID PRO ADQUIRENCA ECOSI DE PAGO    Uni Pro Adq Eco Pgo Bogota
+9659UNID HAB AUTOMATIZACION Y DEVOPS     Un Hab Autom Devops Bogota
+9660UNIDAD HAB INTRG Y APIS              Unid Hab Integ Apis Bogota
+9661UNID HAB ESTRGIA Y GEST DE DATOS     Un Hab Estr Gest DatBogota
+9662UNIDAD HAB CORE BANCARIO             Unid Hab Core BcarioBogota
+9663UNID HAB OPEN BANKING                Un Hab Open Banking Bogota
+9664UNIDAD CANALES DIGITALES             Unid Canales Digita Bogota
+9665UNIDAD CANALES FISICOS Y ASISTIDOS   Un Canl Fisis Asist Bogota
+9666COE PUBLICIDAD Y MARKETING           Coe Publi y Marketi Bogota
+9667GCIA DISEN DE EXPERIENCIA D CLIENTE  Gca Dis Ext d Clien Bogota
+9668COE ARQUITECTURA                     Coe Arquitectura    Bogota
+9669COE DE DATA                          Coe De Data         Bogota
+9670UNIDAD DE PROD CARTE CONSUMO VEHICUL Uni Pro Car Cons Vh Bogota
+9671UNIDAD DE PRODUCTO VIVIENDA          Unid Product Vivien Bogota
+9672UNIDAD DE PRODUCTO SEGUROS           Unid Product Seguro Bogota
+9673UNIDAD DE PRODUCTO CASH MANAGEMENT   Unid Prod Cash Mana Bogota
+9674UNIDAD HABILITADORA SEGURIDAD        Unid Habilit Seguri Bogota
+9675UNIDAD HABILITADORA BACKOFF SOP NEG  Unid Hab Backo SoNg Bogota
+9676COE TESTING                          Coe Testing         Bogota
+9677UNIDAD DE PRODUCTO INTERNACIONAL     Unid Prod Internaci Bogota
+9678UNIDAD DE PRODUCTO ALIADOS           Unid Prod Aliados   Bogota
+9679DIREC TECNOLOGIA DIGITAL             Dir Tecnol Digital  Bogota
+9680UNIDAD TRANSVERSAL DE PRODUCTO       Unid Trans D Produc Bogota
+9701GERENCIA DE VENTAS                   Gcia de Ventas      Bogota
+9702GCIA FIN CORPORATIVAS E INSIGHTS     G.Fin Corp Insights Bogota
+9703JEFATURA GESTION DE CONOCIMIENTO     Jef Ges ConocimientoBogota
+9704DIR DE EXPERIENCIA DE CLIENTE        Dir Exp de Cliente  Bogota
+9705GCIA RED MESAS DE TRANSFORMACION     G. Red Mesas transf Bogota
+9706GERENCIA ASEGURAMIENTO CX            G. Aseguramiento CX Bogota
+9707GCIA EXPERIENCIA BANCA EMPRESAS      Gcia Exp Bca Empres Bogota
+9708JEFATURA DE NEGOCIO LEASING          Jefatura Neg LeasinsBogota
+9709DIRECCION DE NOMINA                  Direccion de Nomina Bogota
+9710GERENCIA DE CREDITO RED              Gcia d Credito Red  Bogota
+9711DIRECCION DE ALIADOS                 Direccion de AliadosBogota
+9712GCIA DE PRODUCTO VEHIC CARTERA CIAL  G.Prod.Veh.Cart.CialBogota
+9713GCIA CICLO VIDA COMERCIAL CONVENIOS  G.Ciclo Vid Cial ConBogota
+9714VICEPRESIDENCIA JURIDICA             Vic Juridica        Bogota
+9715DIR JURIDICA BCA CONS SERV CORPORAT  D.Jur.Bca.Con.Se.CorBogota
+9716DIR JURIDICA BCA EMP INNAL TESORERIA D.Jur.Bca.Emp.In.TesBogota
+9717JEF REGULACION E INNOVACION LEGAL    Jef.Regu.Inno.Legal Bogota
+9718GCIA DE SERVICIOS DE TECNOLOGIA      G.Servicios TecnologBogota
+9719DIREC BANCA INSIGNE                  Dir Banca Insigne   Bogota
+9720JEFATURA DE PROCESOS CONCURSALES     Jef Proce ConcursaleBogota
+9728GCIA DE MOVILIZACION COMERCIAL       Gcia de Mvliza CcialBogota
+9729GCIA ZO INS FIN INS                  GCIA ZO INS FIN INS Bogota
+9730GERENCIA DE PROYECTOS DE RIESGO      Gcia Protec Riesgo  Bogota
+9731GERENCIA DE MODELOS                  Gcia de Modelos     Bogota
+9732GCIA DISPONIBILIDAD DE INFORMACION   Gcia Disp Informaci Bogota
+9733GCIA DE GESTION REGULATORIA          Gcia Gest Regulator Bogota
+9736DIR DE ESTRATEGIA Y RENTABILIDAD     Dir Etgia RentabilidBOGOTA
+9737GERENCIA DE CICLO DE VIDA TC         Gcia Ciclo Vida TC  Bogota
+9738GERENCIA PRODUCTOS DEPOSITOS         Gcia Produc Deposit Bogota
+9740DIRECCION ESTRATEGICA DE DATOS       Dir Estrategica Dat BOGOTA
+9741GERENCIA SINERGIA COMERCIAL          G. Sinergia Ccial   Bogota
+9742GERENCIA CICLO DE VIDA DE PRODUCTO   G.Cic Vida d Produc Bogota
+9743DIRECCION GESTION COMERCIAL          Dir Gestion Cial    BOGOTA
+9744DIR UNIDAD LEASING                   dir unidad leasing  BOGOTA
+9747GERENCIA DE DIGITALIZACION           Gcia Digitalizacion BOGOTA
+9753SUCURSAL PANAMA                      Sucursal Panama     BOGOTA
+9754PROYECTO SUCURSAL PANAMA             Proy Sucursal PanamaBOGOTA
+9755DIRECCION ALM                        Direccion ALM       BOGOTA
+9756DIR DE FINANZAS SOSTENIBLES          D.Finanzas Sostenib Bogota
+9758COE DE CAMPA#AS                      Coe de Campaas     BOGOTA
+9759GCIA ADMIN Y CONEXION DE CONVENIOS   G. Admi Conex ConvenBOGOTA
+9760GCIA RIESGOS DE LIQUIDEZ TASA INTERESG Ries Lqu Tasa InteBOGOTA
+9764GERENCIA COMERCIAL DE INTERNACIONAL  Gc Ccial Internal   Bogota
+9767GERENCIA CONSOLIDACIONES CONTABLES   Ger Consoli Contabl BOGOTA
+9768GCIA REPORTES REGULATORIOS Y RIESGOS G Rep Reg y Riesgos BOGOTA
+9769DIR DE RIESGO INTEGRAL               Dir Riesgo Integral Bogota
+9770GERENCIA DE RIESGO INTEGRAL          G de Riesgo IntegralBogota
+9771DIR DE PRODUCCTOS DE POTENCIA        Dir Prodtos PotenciaBogota
+9772GERENCIA CENTRO DE COMPETENCI IT     Gcia Ctr Compt IT   Bogota
+9776DIRECCION OCCIDENTE                  DIRECCION OCCIDENTE Bogota
+9777GZ PREFERENTE BOGOTA 1               GZ PREFERENTE BOGOTABogota
+9778GZ PREFERENTE BOGOTA 2               GZ PREFERENTE BOGOTABogota
+9779GZ PREFERENTE BOGOTA 3               GZ PREFERENTE BOGOTABogota
+9780GZ PREFERENTE BOGOTA 4               GZ PREFERENTE BOGOTABogota
+9781GZ PREFERENTE BOGOTA 5               GZ PREFERENTE BOGOTABogota
+9782DIRECCION CAPITAL                    DIRECCION CAPITAL   Bogota
+9783GZ PREFERENTE MEDELLIN               GZ PREFERENTE MEDELLMedellin
+9784GZ PREFERENTE CALI                   GZ PREFERENTE CALI  Cali
+9785ZONA PREFERENTE BUCARAMANGA          Z.Preferente Bmanga Bmanga
+9786GZ PREFERENTE B/QUILLA C/GENA Y STA MGZ PREFERENTE B/QUILBquilla
+9796GCIA ZONA PYME MEDE                  GCIA ZONA PYME MEDE Medellin
+9797DIR PEQUE EMPRESA                    DIR PEQUE EMPRESA   Bogota
+9798DIR PEQUE EMPRESA                    DIR PEQUE EMPRESA   Bogota
+9799GER DE ZN PYM BOG 1                  GER DE ZN PYM BOG 1 Bogota
+9800GCIA ZN PYM BOG 2                    GCIA ZN PYM BOG 2   Bogota
+9801ZONA NORMALIZACION DE CARTERA        Z.Normalizacion Car Bogota
+9802GCIA ZN PYM MED BAQ                  GCIA ZN PYM MED BAQ Bmanga
+9803GCIA ZN PYM CAL BGA                  GCIA ZN PYM CAL BGA Cali
+9804GZ PREMIUM NORORIENTE                GZ PREMIUM NORORIENTBquilla
+9805GERENCIA DE ZONA PREMIUM OCCIDENTE   Gc Zna Premium OccidCali
+9806GZ PREMIUM ANTQ-EJECAF               GZ PREMIUM ANTQ-EJECMedellin
+9807GERENCIA DE ZONA PREMIUM BTA 3 ORIENTGc Zna Prem Bta 3 OrBogota
+9808GZ PREMIUM BOGOTA 2                  GZ PREMIUM BOGOTA 2 Bogota
+9809GZ PREMIUM BOGOTA 1                  GZ PREMIUM BOGOTA 1 Bogota
+9810GERENCIA ZONA PREMIUM OCCIDENTE      Gc Zna Premium OccidCALI
+9811GERENCIA ZONA PREMIUM BOGOTA         Gc Zna Premium Bta  BOGOTA
+9812GERENCIA ZONA PREMIUM ADVISOR        Gz Premium Advisor  BOGOTA
+9819GERENCIA CALL CENTER                 Gcia Call Center    Bogota
+9822GCIA CREDITO PEQUE#A EMPRESA 1       G.Cred Peq Empre 1  BOGOTA
+9823GERENCIA CREDITO MEDIANA EMPRESA 2   Gcia Cred Med Emp 2 BOGOTA
+9824GERENCIA CREDITO PEQUENA EMPRESA 2   Gcia Cred Peq Emp 2 BOGOTA
+9825GCIA CREDITO EMPRESARIAL 2           G. Cred.Empresar 2  BOGOTA
+9826GCIA CREDITO EMPRESARIAL 3           G. Cred.Empresar 3  BOGOTA
+9827GCIA CREDITO MEDIANA EMPRESA 1       G. Cred.Media Empr 1BOGOTA
+9828DIR DE CREDITO RED Y PEQ# EMPRESA    D.Cred Red Peque Em BOGOTA
+9829DIR CRED OFIC.INSTITUC Y TESORERIA   Dir Cred Of.Inst.TesBOGOTA
+9830GERENCIA CICLO DE VIDA               Gcia Ciclo de Vida  Bogota
+9831GCIA DE NUEVOS MEDIOS DE PAGO Y ADQU Gcia Nvos Med Pa AdqBogota
+9832GCIA SEGMENTO PREMIUM Y PREFERENTE   Gcia Seg Prem PreferBogota
+9833DIRECCION IMPULSO 360                Dir Impulso 360     Bogota
+9834GCIA SEGURIDAD FISICA ELECTRONICA    G.Segu Fisi Electro Bogota
+9835DIRECCION DE ESTRATEGIA Y PRODUCTO   Dir Estgia Producto Bogota
+9838GCIA OFICIAL ANTIO                   GCIA OFICIAL ANTIO  MEDELLIN
+9839GCIA OFICIA CENTRAL                  GCIA OFICIA CENTRAL BOGOTA
+9840GCIA OFICIA COSTA                    GCIA OFICIA COSTA   BQUILLA
+9841GCIA OFICIA ORIENT                   GCIA OFICIA ORIENT  BUCARAM
+9842GCIA OFIC OCCIDENT                   GCIA OFIC OCCIDENT  CALI
+9846GERENCIA DE ESTRATEGIA CORPORATIVA   Gcia Estrat Corpor  Bogota
+9848GCIA D DLLO CORPORAT Y GESTION FILIA Gci Dllo Corp Ges F Bogota
+9849GER OFICINA CIO                      Ger Oficina CIO     Bogota
+9851GCIA DE GESTION DE ACTIVOS           Gcia Gesti Activos  Bogota
+9852CONTINGENCIA COVID                   Contingencia Covid  Bogota
+9853DIR SEGMENTO Y SERVICIO AL CLIENTE   Dir Seg Serv Client Bogota
+9854DIR NACIONAL DE FUERZAS ESPECIALES   Dir Nal Fuerzas Esp Bogota
+9855GCIA IMPLEMENTACION DE PROYECTOS     Gcia Imple ProyectosBogota
+9857DIR DE CREDITO EMPRESARIAL           D d Credito EmpresarBOGOTA
+9865GCIA CREDT REGIONAL RED              Gcia Credt Reg Red  BOGOTA
+9866DIREC CREDITO MEDIANA EMPRESA        Dir Cre Media Empre BOGOTA
+9867DIR DE CREDITO CORPORATIVO           Dir Cred CorporativoBOGOTA
+9868DIR CREDITO SEGMENTO EMPRESARIAL     Dir Cred Seg EmpresaBOGOTA
+9869COORDINACION CREDITO OFICIAL         Coordi Cred Oficial BOGOTA
+9870GCIA CREDITO CONSTRUCTOR CEOI        Gcia Cred Const CeoiBOGOTA
+9871GCIA COMERCIAL CREDITO INDIVIDUAL    Gcia Ccial Cred IndvBOGOTA
+9873GCIA ZONA BOG NORTE                  GCIA ZONA BOG NORTE BOGOTA
+9874GER ZN ANTIOQUIA                     GER ZN ANTIOQUIA    MEDELLIN
+9875GCIA ZONA OCCI                       GCIA ZONA OCCI      CALI
+9876GCIA ZONA BOG SUR                    GCIA ZONA BOG SUR   BOGOTA
+9877REG.CENTRAL PYME II                  reg.central pyme ii BOGOTA
+9878GERENCIA DE INTERNACIONAL            Gc de Internacional Bogota
+9885DIRECCION NUEVOS MEDIOS DE PAGO      Dir Nvos Medios PagoBogota
+9887GCIA ZONA COSTA                      GCIA ZONA COSTA     BQUILLA
+9888GER ZONA ORIENTE                     GER ZONA ORIENTE    BUCARAM
+9889VICEP DE RIESGOS Y CUMPLIMIENTO      Vic d Riesgos y CumpBogota
+9890VICEP.BAN EMPRES.                    Vicep.ban empres.   BOGOTA
+9891VICEP.BAN SOCI.INST                  Vicep.ban soci.inst BOGOTA
+9892VICEPRESIDENCIA DE CANALES           Vicep.De Canales    BOGOTA
+9893VIC DE ESTRATEGIA Y PLAN FINANCIERA  Vic de Est y Pla FinBogota
+9894DIR DE ESTRATEGIA CORPORATIVA        Dir de Estgia CorporBogota
+9895GERENCIA DE PROYECTOS                Gcia de Proyectos   Bogota
+9897DIRC RIESGOS DE TESORERIA Y BALANCE  Dir Ries Tesor BalanBogota
+9898GCIA SERVICIO Y ATENCION AL CLIENTE  Gcia Ser Atenc ClienBogota
+9901GCIA BUSUNESS INTELLIGENCE           Gcia Busines IntelliBOGOTA
+9906DIREC DE GESTION FINANCIERA          Dir d Gesti Financi BOGOTA
+9908GCIA DE RENTABILIDAD Y COSTOS        Gcia Rentab y CostosBOGOTA
+9911GCIA GESTION FINANCIERA INTERNACIONALGcia Gest Finan InteBogota
+9914REVISORIA FISCAL                     Revisoria Fiscal    BOGOTA
+9916UNID HABILITADORA SOPORTE N1 N2      Ud Habil Sopor N1 N2BOGOTA
+9917GCIA GESTION FINANCIERA DEL GASTO    Gcia Gest Finan GastBOGOTA
+9918JEFATURA DE GESTION DE CAPITAL       Jef Gestion Capital BOGOTA
+9919GCIA NACIONAL DE GESTION FIN BCA EMP G Nal Gtion F Bca EmBOGOTA
+9920DIRC DE PLANEACION FINANCIERA        Dirc Plan FinancieraBogota
+9921GCIA INT VP CIAL                     gcia int vp cial    BOGOTA
+9922GERENCIA SERVICIO AL CLIENTE         Gcia Servicio Clien BOGOTA
+9923VICEP FINANCIERA Y ESTRATEGIA        Vicep Finan y Estra BOGOTA
+9924DIVISION CONTRALORIA                 Division ContraloriaBOGOTA
+9925DIRECCION DE PRODUCTO                Dir De Producto     Bogota
+9926VICEPRESIDENCIA DE BANCA PERSONA     Vice Banca D Person Bogota
+9927GERENCIA DESARROLLO COMERCIAL        Gcia Desarrollo CialBogota
+9929VICEP D TALENTO Y ADMINISTRATIVO     Vicep Talent AdminisBogota
+9930GERENCIA DE ANALITICA                Gcia de Analitica   Bogota
+9931GCIA DE COMERCIALIZACIONES DE BINES  Gcia Comerc de BinesBogota
+9932DIRECCION RIESGO CREDITO             Dir Riesgo Credito  Bogota
+9934GCIA DE INGENIERIA DE PROYECTOS      Gcia Ingria Proyec  Bogota
+9935VICEPRESIDENCIA EJECUTIVA            Vic Ejecutiva       BOGOTA
+9936DIRECCION DE CREDITO MASIVO          Dir Credito Masivo  BOGOTA
+9937GCIA DE DESARROLLO DE SOFTWARE       Gcia Dllo Software  BOGOTA
+9938GCIA PROCESOS JUDICIALES             G.Procesos judicial Bogota
+9939COE DE PROCESOS                      Coe de Procesos     Bogota
+9941GCIA ESTRATEGIA CIAL CANALES Y PROYECG Est Cial Can ProyeBOGOTA
+9942GCIA PLANEACION E IMPULSOS TECNOLOGI G. Plcion Imp TecnogBOGOTA
+9944GERENCIA DE INCENTIVOS               Gcia de Incentivos  BOGOTA
+9947DIV DE CREDITO Y RIESGO CREDITICIO   Div Cred y Rgo CrediBogota
+9948DEPARTAMENTO DE SEGURIDAD            Dpto de Seguridad   BOGOTA
+9950GCIA GESTION CREDITO                 Gcia Gest  Credito  BOGOTA
+9951DIRECCION CONTROL DE CREDITO         Dir Control Credito BOGOTA
+9952GCIA OPERATIVA DE CANALES FISICOS    Gcia Oper Canal FisiBogota
+9953DIRC DE RELACIONES CORPORATIVAS      Dirc Relaciones CorpBogota
+9955DIRECCION DE TRANSFORMACION          Dir Transformacion  Bogota
+9958GCIA MCAS Y ALIANZ                   gcia mcas y alianz  BOGOTA
+9963GERENCIA ZONA EMPRESARIAL BOGOTA 3   Ger Zna Empre Bta 3 Bogota
+9964DIR CORPORATI BOGO                   DIR CORPORATI BOGO  Bogota
+9965GCIA DE ANALITICA DE EXP DEL CLIENTE G.Anali Exp d Clien Bogota
+9966GERENCIA ZONA EMPRESARIAL BOGOTA 3   Ger Zna Empre Bta 1 Bogota
+9967APOYO COMERCIAL DIR SOLUC EMPRESAS   apoy cial d. sol empBOGOTA
+9968GERENCIA FUERZA MOVIL DE VENTAS      Gcia Fza Movil Vtas Bogota
+9969JUNTA DIRECTIVA                      junta directiva     BOGOTA
+9970GCIA NORORIENT CORP                  GCIA NORORIENT CORP BOGOTA
+9971GER VINCUL EMPRE                     GER VINCUL EMPRE    BOGOTA
+9972GCIA BANCA COMERCIAL ESPECIALIZADA   G Bca Cial EspecialiBOGOTA
+9973DIR SEGME OFICIAL                    DIR SEGME OFICIAL   BOGOTA
+9975DIRECCION PEQUE#A EMPRESA            Dir Pequea Empresa Bogota
+9976DIR NAL DE CANALES PARA PERSONAS     Dir Nal Can PersonasBogota
+9977DIRC RIESGO OPERATIVO Y SEGURIDAD    Dir Riesg Oper SegurBogota
+9978PRESIDENCIA                          Presidencia         Bogota
+9979DIR UNID CONTROL DE CUMPLIMIENTO     Dir Und Cont Cumpli Bogota
+9980UND HABILIT INFRAEST MONITO Y SERVIC U Hab Infra Mreo Sv BOGOTA
+9981GERENCIA GESTION DE PRECIOS          Gcia Gtion Precios  Bogota
+9983REEMBOLSOS A AVAL                    Reembolsos a Aval   Bogota
+9984DEFENSORIA DEL CONSUMIDOR FINANCIERO Defen Consumi FcieroBogota
+9992SECRETARIA GENERAL                   Secretaria General  Bogota
+9993DIRECCION CANALES EXPERIE DE CLIENTE Dir Canal Exp ClientBogota
+9994GCIA GEST FINANC INTERNA Y TESORERIA Gc Ges Fina Int TesoBOGOTA
+9995GERENCIA OFICINA DE CRECIMIENTO      Gcia Ofic Crecimien BOGOTA
+9997DIR.COMERCIAL.TARJETA CREDITO        dir ccial tarjeta crBOGOTA
