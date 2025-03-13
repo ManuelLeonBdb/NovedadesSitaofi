@@ -36,7 +36,7 @@ def TABCNJ4(data):
             else:
                 newparm = newparm + \
                           linea[0:15] 
-                if resultado['NUEVO NOMBRE OFICINA'].iloc[0] != "No Aplica":
+                if resultado['NUEVO NOMBRE OFICINA'].iloc[0] != "No Aplica" and pd.isna(resultado['NUEVO NOMBRE OFICINA'].iloc[0]) == False:
                     newparm = newparm + \
                               resultado['NUEVO NOMBRE OFICINA'].iloc[0][0:27].ljust(27)
                 else:    
@@ -64,7 +64,15 @@ def TABLOFI4(data):
                 newparm = newparm + linea
             else:
                 newparm = newparm + \
-                          linea[0:78]
+                          linea[0:15] 
+                if resultado['NUEVO NOMBRE OFICINA'].iloc[0] != "No Aplica" and pd.isna(resultado['NUEVO NOMBRE OFICINA'].iloc[0]) == False:
+                    newparm = newparm + \
+                              resultado['NUEVO NOMBRE OFICINA'].iloc[0][0:27].ljust(27)
+                else:    
+                    newparm = newparm + \
+                            linea[15:42]      
+                newparm = newparm + \
+                          linea[42:78]                            
                 #aqui esta con 'COD ZONA COMERCIAL' de 2 pos y no de 3!!!              
                 if pd.isna(resultado['NUEVO COD REGION COMERCIAL'].iloc[0]):    
                     newparm = newparm + \
@@ -100,7 +108,15 @@ def TABOFI4(data):
                 newparm = newparm + linea
             else:
                 newparm = newparm + \
-                          linea[0:78]
+                          linea[0:15] 
+                if resultado['NUEVO NOMBRE OFICINA'].iloc[0] != "No Aplica" and pd.isna(resultado['NUEVO NOMBRE OFICINA'].iloc[0]) == False:
+                    newparm = newparm + \
+                              resultado['NUEVO NOMBRE OFICINA'].iloc[0][0:27].ljust(27)
+                else:    
+                    newparm = newparm + \
+                            linea[15:42]      
+                newparm = newparm + \
+                          linea[42:78]                            
                 #aqui esta con 'COD ZONA COMERCIAL' de 2 pos y no de 3!!!              
                 if pd.isna(resultado['NUEVO COD REGION COMERCIAL'].iloc[0]):    
                     newparm = newparm + \
@@ -136,7 +152,15 @@ def TABNAL4(data):
                 newparm = newparm + linea
             else:
                 newparm = newparm + \
-                          linea[0:78]
+                          linea[0:15] 
+                if resultado['NUEVO NOMBRE OFICINA'].iloc[0] != "No Aplica" and pd.isna(resultado['NUEVO NOMBRE OFICINA'].iloc[0]) == False:
+                    newparm = newparm + \
+                              resultado['NUEVO NOMBRE OFICINA'].iloc[0][0:27].ljust(27)
+                else:    
+                    newparm = newparm + \
+                            linea[15:42]      
+                newparm = newparm + \
+                          linea[42:78]                            
                 #aqui esta con 'COD ZONA COMERCIAL' de 2 pos y no de 3!!!              
                 if pd.isna(resultado['NUEVO COD REGION COMERCIAL'].iloc[0]):    
                     newparm = newparm + \
@@ -173,7 +197,7 @@ def IMCIU020(data):
             else:
                 newparm = newparm + \
                           linea[0:4] 
-                if resultado['NUEVO NOMBRE OFICINA'].iloc[0] != "No Aplica":
+                if resultado['NUEVO NOMBRE OFICINA'].iloc[0] != "No Aplica" and pd.isna(resultado['NUEVO NOMBRE OFICINA'].iloc[0]) == False:
                     newparm = newparm + \
                               resultado['NUEVO NOMBRE OFICINA'].iloc[0][0:37].ljust(37) + \
                               resultado['NUEVO NOMBRE OFICINA'].iloc[0][0:20].ljust(20)                    
@@ -204,7 +228,7 @@ def LCECIU20(data):
             else:
                 newparm = newparm + \
                           linea[0:4] 
-                if resultado['NUEVO NOMBRE OFICINA'].iloc[0] != "No Aplica":
+                if resultado['NUEVO NOMBRE OFICINA'].iloc[0] != "No Aplica" and pd.isna(resultado['NUEVO NOMBRE OFICINA'].iloc[0]) == False:
                     newparm = newparm + \
                               resultado['NUEVO NOMBRE OFICINA'].iloc[0][0:20].ljust(20)                                               
                 else:
@@ -233,7 +257,7 @@ def LRANAL20(data):
             else:
                 newparm = newparm + \
                           linea[0:15]
-                if resultado['NUEVO NOMBRE OFICINA'].iloc[0] != "No Aplica":
+                if resultado['NUEVO NOMBRE OFICINA'].iloc[0] != "No Aplica" and pd.isna(resultado['NUEVO NOMBRE OFICINA'].iloc[0]) == False:
                     newparm = newparm + \
                               resultado['NUEVO NOMBRE OFICINA'].iloc[0][0:27].ljust(27)                                               
                 else:
@@ -285,7 +309,7 @@ def LMEZON20(data):
                 else:
                     newparm = newparm + \
                               resultado['NUEVO NOMBRE ZONA COMERCIAL'].iloc[0][0:20].ljust(20)                     
-                if resultado['NUEVO NOMBRE OFICINA'].iloc[0] != "No Aplica":
+                if resultado['NUEVO NOMBRE OFICINA'].iloc[0] != "No Aplica" and pd.isna(resultado['NUEVO NOMBRE OFICINA'].iloc[0]) == False:
                     newparm = newparm + \
                               resultado['NUEVO NOMBRE OFICINA'].iloc[0][0:20].ljust(20)                                               
                 else:
@@ -315,7 +339,7 @@ def LCNOFI20(data):
             else:
                 newparm = newparm + \
                           linea[0:14] 
-                if resultado['NUEVO NOMBRE OFICINA'].iloc[0] != "No Aplica":
+                if resultado['NUEVO NOMBRE OFICINA'].iloc[0] != "No Aplica" and pd.isna(resultado['NUEVO NOMBRE OFICINA'].iloc[0]) == False:
                     newparm = newparm + \
                               resultado['NUEVO NOMBRE OFICINA'].iloc[0][0:27].ljust(27) + \
                               linea[41:77] 
